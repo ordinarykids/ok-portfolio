@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+  }
+
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
