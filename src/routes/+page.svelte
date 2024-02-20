@@ -10,7 +10,7 @@
 
 
 
-<div class="grid grid-cols-4 gap-1 home-grid w-3/4 m:w-full sm:w-full">
+<div class="grid grid-cols-6 gap-1 home-grid w-3/4 m:w-full sm:w-full">
     <div>
         <a class="opacity-20 hover:opacity-100" href="/nike">
             <div class="relative bg-gray-200 flex justify-center items-center rounded-md object-cover ease-in-out duration-500 group-hover:rotate-6 group-hover:scale-125 ">
@@ -32,13 +32,13 @@
 
     </div>
     <div>04</div>
-    <div class="relative bottom-0 h-full object-cover " style="background: url('/keithharing.jpg'); padding-top: 24vw">
+    <div class="relative bottom-0  object-cover " style="background: url('/keithharing.jpg'); ">
         asdasd
     </div>
-    <div class="relative bottom-0 h-full object-cover " style="background: url('/keithharing-sm.jpg'); padding-top: 24vw">
+    <div class="relative bottom-0  object-cover " style="background: url('/keithharing-sm.jpg'); ">
         asdasd
     </div>
-    <div class="relative bottom-0 h-full object-cover " style="background: url('/keithharing-md.jpg'); padding-top: 24vw">
+    <div class="relative bottom-0 object-cover " style="background: url('/keithharing-md.jpg'); ">
         asdasd
     </div>
     <div>08</div>
@@ -63,7 +63,7 @@
 
     .home-grid div {
         background-color: theme(colors.gray.200);
-        height: 25vw;
+        height: 8vw;
         font-size: 0.5rem;
     }
   </style>

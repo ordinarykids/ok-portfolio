@@ -2,7 +2,12 @@
     import { page } from "$app/stores";
     import { onMount } from "svelte";
     import projects from "../../project-data.json";
+    import { Splide, SplideSlide } from '@splidejs/svelte-splide';
+    // or only core styles
+    import '@splidejs/svelte-splide/css';
 
+
+    
     export async function get() {
         return {
             status: 200,
@@ -28,11 +33,30 @@
     let projectSlug = $page.params.project;
 </script>
 
-<div
-    class="container m-auto w-3/5 md:w-full m:w-full sm:w-full grid grid-cols-12 md:grid-cols-4 lg:grid-cols-12 gap-16"
->
-    <div class="tile col-span-3">
-        <h1>Helix</h1>
+<div class="container m-0 px-4 fixed w-32 bg-gray-100">
+    <div class="container  w-1/2">
+        <h1 class="font-bold">Helix</h1>
+    </div> 
+</div>  
+<div class="container m-auto w-3/4">
+    <Splide class="py-16" options={ {
+        rewind: true,
+        type : 'loop',
+        gap   : '1rem',
+      } } aria-label="My Favorite Images">
+        <SplideSlide>
+            <img src="/helix/ads/Hero.png" alt="collage" />
+        </SplideSlide>
+        <SplideSlide>
+            <img src="/helix/ads/Hero-1.png" alt="collage" />
+        </SplideSlide>
+        <SplideSlide>
+            <img src="/helix/ads/Hero-2.png" alt="collage" />
+        </SplideSlide>
+      </Splide>
+
+
+      <div class="m-auto lg:w-3/4 md:w-full md:mx-8">
         <h2>
             Real time coding using TouchDesigner to explore AI generated
             moodboards
@@ -71,50 +95,52 @@
             their mission to innovate with population genomics, and excited to
             see what’s next.
         </p>
-
-        <div class="underLine"></div>
-        <h2>Info</h2>
-        <p></p>
-        <div class="py-16">
-            .
-            <div>
-                <h2>Tags</h2>
-                <ul>
-                    <li>Creative Direction</li>
-                    <li>UX Design</li>
-                    ≥
-                    <li>Moodboards</li>
-                    <li>Web Developement</li>
-                </ul>
-            </div>
-            <div>
-                <h2>Credits</h2>
-                <ul>
-                    <li>Jason Herring - Creative Director</li>
-                    <li>Sony Maharjan- UX Designer</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <div class="tile col-span-7">
-        <img src="/helix/1.webp" alt="collage" />
-        <h5>
-            Numerous collages mixing Midjounery generated images and traditonal
-            design elements were developed during my leadership at Aleph.
-        </h5>
-        <iframe
-            width="100%"
-            height="600px"
-            src="https://www.youtube.com/embed/FFpdC3Qbggg"
-            title="Random Stuff on my Figma Boards"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-        ></iframe>
-        <h5>
-            Overview of the product photography we art directed and had
-            photographed.
-        </h5>
-    </div>
+      </div>
+    <div class="my-32 md:my-16 sm:my-8">
+        <iframe class="w-full aspect-video  overflow-hidden" src="https://helix-glober.vercel.app/" ></iframe>
+ 
+ 
+         <h5>
+             Numerous collages mixing Midjounery generated images and traditonal
+             design elements were developed during my leadership at Aleph.
+         </h5>
+        
+     </div>
+     
+      
+      
 </div>
+<Splide class="my-16" options={ {
+    rewind: true,
+    type : 'loop',
+    gap   : '1rem',
+  } } aria-label="My Favorite Images">
+    <SplideSlide>
+        <iframe class="w-full aspect-video  overflow-hidden" src="https://helix-tw-01.vercel.app/" ></iframe>
+    </SplideSlide>
+    <SplideSlide>
+        <img src="/helix/empower1.png" alt="collage" />
+    </SplideSlide>
+    <SplideSlide>
+        <img src="/helix/empower2.png" alt="collage" />
+    </SplideSlide>
+    <SplideSlide>
+        <img src="/helix/empower3.png" alt="collage" />
+    </SplideSlide>
+  </Splide>
+
+  <Splide class="my-16" options={ {
+    rewind: true,
+    type : 'loop',
+    gap   : '1rem',
+  } } aria-label="My Favorite Images">
+    <SplideSlide>
+        <img src="/helix/1.webp" alt="collage" />
+    </SplideSlide>
+    <SplideSlide>
+        <img src="/helix/2.webp" alt="collage" />
+    </SplideSlide>
+    <SplideSlide>
+        <img src="/helix/3.webp" alt="collage" />
+    </SplideSlide>
+  </Splide>

@@ -24,6 +24,13 @@
 	"type": "module",
 	"dependencies": {
 		"@fontsource/ibm-plex-mono": "^5.0.8",
-		"@fontsource/lekton": "^5.0.8"
+		"@fontsource/lekton": "^5.0.8",
+		"@motionone/svelte": "^10.16.4",
+		"@splidejs/svelte-splide": "^0.2.9",
+		"d3-interpolate": "^3.0.1",
+		"i": "^0.3.7",
+		"motion": "^10.17.0",
+		"npm": "^10.4.0",
+		"svelte-youtube-embed": "^0.2.3"
 	}
 }
