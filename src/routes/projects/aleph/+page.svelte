@@ -1,58 +1,36 @@
 <script>
     import { page } from "$app/stores";
     import { onMount } from "svelte";
-    import projects from "../../project-data.json";
-    import { Splide, SplideSlide } from '@splidejs/svelte-splide';
+    import SplideShow from "@/Splideshow.svelte";
+
+    import { Splide, SplideSlide } from "@splidejs/svelte-splide";
     // or only core styles
-    import '@splidejs/svelte-splide/css';
+    import "@splidejs/svelte-splide/css";
 
-    export async function get() {
-        return {
-            status: 200,
-            body: {
-                projects,
-            },
-        };
-    }
-
-    onMount(() => {
-        let test = get();
-        console.log($page.url);
-
-        $: console.log($page.params);
-
-        let projectSlug = $page.params.project;
-    });
-    let test = get();
-    console.log(test);
-
-    $: console.log($page.params);
-
-    let projectSlug = $page.params.project;
+    let slideshowImages = ["/aleph/peaceout.jpg", "/art/blush.jpg"];
 </script>
 
-
 <div class="container m-auto w-3/4">
-    <Splide aria-label="My Favorite Images">
+    <Splide aria-label="My Favorite Images" imageData={slideshowImages}>
         <SplideSlide>
-            <img src="/aleph/peaceout.jpg" alt="collage" />
+            <img src="/aleph/peaceout.jpg" alt="collage" class="draggable" />
         </SplideSlide>
-        <SplideSlide>
-            <img src="/helix/2.webp" alt="collage" />
-        </SplideSlide>
-      </Splide>
+    </Splide>
 </div>
 
-
 <div class="container m-auto w-3/4">
-    <div class="container m-0 w-1/2">
-        <h1>Helix</h1>
-        <h2>
-            Real time coding using TouchDesigner to explore AI generated
-            moodboards
-        </h2>
+    <div
+        class="container m-0 mb-16 mt-8 sm:columns-1 md:columns-2 lg:columns-3"
+    >
+        <div class="projectHeader mb-4">
+            <h1 class=" text-4xl">Aleph Rebrand</h1>
+            <h2 class="font-bold">
+                Real time coding using TouchDesigner to explore AI generated
+                moodboards
+            </h2>
+        </div>
 
-        <p class="py-4">
+        <p class="pb-4">
             At a time of exponential innovation in biotechnology, a focus on
             leveraging genomics at the scale of populations made Helix a vital
             repository of data and information during the COVID-19 pandemic.
@@ -66,7 +44,31 @@
             deliver a stable-but-malleable content platform to meet a diverse
             set of requirements with enterprise-level confidence.
         </p>
-
+        <p class="py-4">
+            As Helix refined its approach to messaging and other aspects of
+            their brand, the technology they used for publishing content was
+            fragmented and tough to use. Aleph engaged in an ambitious effort to
+            shape a new visual presence around their existing identity, and to
+            deliver a stable-but-malleable content platform to meet a diverse
+            set of requirements with enterprise-level confidence.
+        </p>
+        <p class="py-4">
+            As Helix refined its approach to messaging and other aspects of
+            their brand, the technology they used for publishing content was
+            fragmented and tough to use. Aleph engaged in an ambitious effort to
+            shape a new visual presence around their existing identity, and to
+            deliver a stable-but-malleable content platform to meet a diverse
+            set of requirements with enterprise-level confidence.
+        </p>
+        <p class="py-4">
+            As Helix refined its approach to messaging and other aspects of
+            their brand, the technology they used for publishing content was
+            fragmented and tough to use. Aleph engaged in an ambitious effort to
+            shape a new visual presence around their existing identity, and to
+            deliver a stable-but-malleable content platform to meet a diverse
+            set of requirements with enterprise-level confidence.
+        </p>
+        <img src="/scan.jpg" alt="collage2" class="draggable h-64 py-8" />
         <p class="py-4">
             This migration presented us with a few major challenges from the
             word “go”. We were tasked with refining the online presentation of
@@ -87,19 +89,23 @@
         </p>
     </div>
 
-
     <div class="tile col-span-7">
-       
-
         <Splide aria-label="My Favorite Images">
             <SplideSlide>
-                <img src="/aleph/peaceout.jpg" alt="collage" />
+                <img
+                    src="/aleph/peaceout.jpg"
+                    alt="collage"
+                    class="draggable"
+                />
             </SplideSlide>
             <SplideSlide>
-                <img src="/aleph/2.webp" alt="collage" />
+                <img
+                    src="/aleph/peaceout.jpg"
+                    alt="collage2"
+                    class="draggable"
+                />
             </SplideSlide>
-          </Splide>
-
+        </Splide>
 
         <h5>
             Numerous collages mixing Midjounery generated images and traditonal

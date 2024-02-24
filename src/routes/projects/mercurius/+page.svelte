@@ -34,7 +34,16 @@
     let projectSlug = $page.params.project;
 </script>
 
-
+<div class="container m-auto w-3/4">
+    <Splide aria-label="My Favorite Images">
+        <SplideSlide>
+            <img src="/mercurius/beer.jpg" alt="collage" />
+        </SplideSlide>
+        <SplideSlide>
+            <img src="/helix/2.webp" alt="collage" />
+        </SplideSlide>
+      </Splide>
+</div>
 <div class="container m-auto w-3/4">
     
       <div class="m-auto lg:w-3/4 md:w-full md:mx-8">
@@ -56,20 +65,9 @@
 
        \
       </div>
-      <div class="my-32 md:my-16 sm:my-8">
-        <Youtube
-        id="XW_8Rr1q1A0"
-        altThumb="{true}"
-        --overlay-bg-color="hsla(0, 0%, 0%, 0.3)"
-        --overlay-transition="all 100ms linear"
-      />
- 
-       
-        
-     </div>
     <div class="my-32 md:my-16 sm:my-8">
         <Youtube
-        id="9TTWpg4pKhI&"
+        id="9TTWpg4pKhI"
         --overlay-bg-color="hsla(0, 0%, 0%, 0.3)"
         --overlay-transition="all 100ms linear"
       />

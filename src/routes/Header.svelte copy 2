@@ -1,0 +1,101 @@
+<script>
+    import { slide } from "svelte/transition";
+    let isExpanded = false;
+    let isExpanded2 = false;
+
+    function clickHandler() {
+        isExpanded = !isExpanded;
+    }
+    function clickHandler2() {
+        isExpanded2 = !isExpanded2;
+    }
+    function clickHandlerAll() {
+        isExpanded = !isExpanded;
+        isExpanded2 = !isExpanded2;
+    }
+
+    let showMenu = false;
+    let menuX = 0;
+    let menuY = 0;
+
+    function handleMouseMove(event) {
+        menuX = event.clientX;
+        menuY = event.clientY;
+        showMenu = true;
+    }
+
+    let timeoutId;
+    function resetTimeout() {
+        clearTimeout(timeoutId);
+        timeoutId = setTimeout(() => {
+            showMenu = false;
+        }, 1000); // Hide after 1 second of inactivity
+    }
+</script>
+
+<nav class="w-1/8 fixed z-50 m-4 bg-black p-1 text-white">
+    <div class="container m-auto w-3/4" on:click={clickHandler}>
+        <h1 class="">Jason Herring</h1>
+        <!-- <button on:click={clickHandler}>Menu</button> -->
+        {#if isExpanded}
+            <ul transition:slide>
+                <li class="px-2 py-1">Bio</li>
+                <li class="px-2 py-1">
+                    <a
+                        href="/projects/surrealist-dreams"
+                        on:click={clickHandler}
+                        class="hover:underline">Experiments</a
+                    >
+                </li>
+                <button class="px-2 py-1" on:click={clickHandler2}>Work</button>
+                {#if isExpanded2}
+                    <ul transition:slide>
+                        <li class="px-4 py-1">
+                            <a
+                                href="/projects/aleph"
+                                on:click={clickHandlerAll}
+                                class="hover:underline">Aleph</a
+                            >
+                        </li>
+                        <li class="px-4 py-1">
+                            <a
+                                href="/projects/helix"
+                                on:click={clickHandlerAll}
+                                class="hover:underline">Helix</a
+                            >
+                        </li>
+                        <li class="px-4 py-1">
+                            <a
+                                href="/projects/aleph"
+                                on:click={clickHandlerAll}
+                                class="hover:underline">KQED</a
+                            >
+                        </li>
+                        <li class="px-4 py-1">
+                            <a
+                                href="/projects/mercurius"
+                                on:click={clickHandlerAll}
+                                class="hover:underline">Mercurius</a
+                            >
+                        </li>
+                    </ul>
+                {/if}
+                <li>Projects</li>
+                <li>Contact</li>
+            </ul>
+        {/if}
+    </div>
+</nav>
+
+<div on:mousemove={handleMouseMove} on:mousemove={resetTimeout}>
+    {#if showMenu}
+        <div class="menu" style="left: {menuX}px; top: {menuY}px;">sdfafas</div>
+    {/if}
+</div>
+
+<style>
+    .menu {
+        position: absolute;
+        /* ... Other menu styles */
+    }
+</style>
