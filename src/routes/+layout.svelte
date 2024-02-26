@@ -13,7 +13,7 @@
   <slot />
 </div> -->
 <Header />
-<div class="mt-16 py-16">
+<div class="mt-24 py-16">
     <slot />
 </div>
 

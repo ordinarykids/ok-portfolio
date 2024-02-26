@@ -13,12 +13,14 @@
     class="container grid w-full gap-4 sm:m-4 sm:w-full sm:grid-cols-12 md:w-full md:grid-cols-12 lg:m-auto lg:grid-cols-12"
 >
     <div class="tile col-span-12 md:col-span-12 lg:col-span-4">
-        <h1 class="text-3xl">{currentProject.attributes.title}</h1>
+        <h1 class="pb-4 text-3xl font-black">
+            {currentProject.attributes.title}
+        </h1>
         <h2>
             Real time coding using TouchDesigner to explore AI generated
             moodboards
         </h2>
-
+        <div>{@html currentProject.attributes.shortdescription}</div>
         <div>{@html currentProject.attributes.description}</div>
 
         <div class="underLine"></div>

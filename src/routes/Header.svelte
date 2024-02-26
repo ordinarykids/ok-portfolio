@@ -44,29 +44,36 @@
 >
     <div class="container m-auto w-3/4 bg-[#F9F9F9]">
         <div class="tile nav-links col-span-12 mb-4 bg-[#F9F9F9] pt-4">
-            <a href="/blog/" class="font-bold">Jason Herring</a><br />
-
+            <a href="/blog/" class="text-5xl font-thin hover:no-underline"
+                >Jason Herring</a
+            ><br />
             <div
                 class={` transition-all duration-300 ${
-                    isHovered ? "h-32" : "h-0"
+                    isHovered ? "h-24" : "h-0"
                 } z-10  overflow-hidden `}
             >
-                <span class="font-bold">Info</span>
                 <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
                 <!-- <a href="./bio.php"  id="bio">Biography</a> <span class="slash">/</span> -->
                 <a href="/" id="resume">CV RESUME</a>
                 <span class="slash"></span>
                 <!-- <a href="resume.php"  id="resume">BOARD CAM [ <span class="liveRed">LIVE </span> ]</a> <span class="slash">/</span>-->
                 <br />
-                <a href="/projects-db/nike-free/" id="nike-free">
-                    Nike Free
-                </a><br />
-                <a href="/projects-db/helix/" id="nike-free"> Helix </a><br />
-                <span class="font-bold">INFORMATION</span>
+
+                <span class="font-bold">CASE STUDIES</span>
 
                 <NavLink
                     href="/projects-db/helix"
                     title="Helix"
+                    on:navigate={handleNavigate}
+                />
+                <NavLink
+                    href="/projects-db/nike-free"
+                    title="Nike Free"
+                    on:navigate={handleNavigate}
+                />
+                <NavLink
+                    href="/projects-db/tracy-chapman"
+                    title="Tracy Chapman"
                     on:navigate={handleNavigate}
                 />
                 <NavLink
@@ -87,7 +94,7 @@
                     on:navigate={handleNavigate}
                 />
                 <NavLink
-                    href="/projects/mercurius"
+                    href="/projects-db/mercurius"
                     title="Mercurius Beer"
                     on:navigate={handleNavigate}
                 />
@@ -178,7 +185,7 @@
         text-decoration: uppercase;
     }
 
-    a:hover {
+    nav-links a:hover {
         text-decoration: underline;
         cursor: pointer;
     }

@@ -4,12 +4,14 @@
 "id": 1,
 "attributes": {
 "title": "Nike Free Plus 2",
-"description": "NIKE FREE PLUS 2 CITY PACK - VISUAL CENTER\nCREATING THE BRAND STORY AND MESSAGING FOR NIKE FREE.\n<b>INFO</b>\n\nFor the visual center for Nike Free, we were tasked to do the following: frame the campaign in a narrative, create product photography, produce a zine. Ultimately the challenge led us down many paths and produced numerous results.\n\nFor the zine, we decided to shoot four editorials. Three were chosen because of their importance to the campaing, London, NYC and Tokyo. We also choose to do a editorial on the university that inspired the Nike Free with Oliver Helbig, a regular contributer to 032C magazine. With four photo shoots in hour days, the DualForces team had their hands full and soon we trying to find which of the amazing images to use for the zine.\n\nThe 56 page zine was nearly all distressed with a heavy half tone pattern that conveyed the democratic and low fidelity technology that also drives the Nike Free shoe. We printed 16 pages in glossy color to highlight Oliver's editorial and call out the beauty in humanless photography.\n<ul>\n<li>\nEarly on we photographed all of the shoes and delivered print ready files to Nike's BNX servers. We also created several hero images to be used in packaging, shirts and on the boxes.</li>\n</ul>",
+"description": "<b>INFO</b>\n\nFor the visual center for Nike Free, we were tasked to do the following: frame the campaign in a narrative, create product photography, produce a zine. Ultimately the challenge led us down many paths and produced numerous results.\n\nFor the zine, we decided to shoot four editorials. Three were chosen because of their importance to the campaing, London, NYC and Tokyo. We also choose to do a editorial on the university that inspired the Nike Free with Oliver Helbig, a regular contributer to 032C magazine. With four photo shoots in hour days, the DualForces team had their hands full and soon we trying to find which of the amazing images to use for the zine.\n\nThe 56 page zine was nearly all distressed with a heavy half tone pattern that conveyed the democratic and low fidelity technology that also drives the Nike Free shoe. We printed 16 pages in glossy color to highlight Oliver's editorial and call out the beauty in humanless photography.\n<ul>\n<li>\nEarly on we photographed all of the shoes and delivered print ready files to Nike's BNX servers. We also created several hero images to be used in packaging, shirts and on the boxes.</li>\n</ul>",
 "date": "2011-09-23",
 "createdAt": "2023-09-18T04:32:49.473Z",
-"updatedAt": "2024-02-26T17:19:23.804Z",
+"updatedAt": "2024-02-26T19:33:56.410Z",
 "publishedAt": "2023-09-18T04:42:00.794Z",
 "slug": "nike-free",
+"longdescription": null,
+"shortdescription": "NIKE FREE PLUS 2 CITY PACK - VISUAL CENTER CREATING THE BRAND STORY AND MESSAGING FOR NIKE FREE.",
 "featuredImage": {
 "data": {
 "id": 1,
@@ -58,358 +60,6 @@
 },
 "projectImages": {
 "data": [
-{
-"id": 12,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (20).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (20).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_c56e15fbea",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 48.69,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_c56e15fbea.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (20).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_c56e15fbea",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 375.72,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_c56e15fbea.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_c56e15fbea",
-"ext": ".png",
-"mime": "image/png",
-"size": 91.54,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_c56e15fbea.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:52.973Z",
-"updatedAt": "2023-09-23T00:48:52.973Z"
-}
-},
-{
-"id": 13,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (15).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (15).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_e5f8242f53",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 50.13,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_e5f8242f53.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (15).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_e5f8242f53",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 406.14,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_e5f8242f53.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_e5f8242f53",
-"ext": ".png",
-"mime": "image/png",
-"size": 100.21,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_e5f8242f53.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.019Z",
-"updatedAt": "2023-09-23T00:48:53.019Z"
-}
-},
-{
-"id": 14,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (20).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (20).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_54314f7d79",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 48.69,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_54314f7d79.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (20).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_54314f7d79",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 375.72,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_54314f7d79.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_54314f7d79",
-"ext": ".png",
-"mime": "image/png",
-"size": 91.54,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_20_54314f7d79.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.023Z",
-"updatedAt": "2023-09-23T00:48:53.023Z"
-}
-},
-{
-"id": 15,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (15).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (15).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_5388bbb36f",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 50.13,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_5388bbb36f.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (15).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_5388bbb36f",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 406.14,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_5388bbb36f.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_5388bbb36f",
-"ext": ".png",
-"mime": "image/png",
-"size": 100.21,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_15_5388bbb36f.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.074Z",
-"updatedAt": "2023-09-23T00:48:53.074Z"
-}
-},
-{
-"id": 16,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (24).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (24).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_7a6e0b8e3a",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 66.29,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_7a6e0b8e3a.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (24).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_7a6e0b8e3a",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 571.87,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_7a6e0b8e3a.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_7a6e0b8e3a",
-"ext": ".png",
-"mime": "image/png",
-"size": 161.12,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_7a6e0b8e3a.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.233Z",
-"updatedAt": "2023-09-23T00:48:53.233Z"
-}
-},
-{
-"id": 17,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (27).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (27).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_b69129c9c9",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 66.23,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_b69129c9c9.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (27).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_b69129c9c9",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 588.57,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_b69129c9c9.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_b69129c9c9",
-"ext": ".png",
-"mime": "image/png",
-"size": 155.77,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_b69129c9c9.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.342Z",
-"updatedAt": "2023-09-23T00:48:53.342Z"
-}
-},
-{
-"id": 18,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (24).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (24).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_27ece32124",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 66.29,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_27ece32124.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (24).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_27ece32124",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 571.87,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_27ece32124.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_27ece32124",
-"ext": ".png",
-"mime": "image/png",
-"size": 161.12,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_24_27ece32124.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.415Z",
-"updatedAt": "2023-09-23T00:48:53.415Z"
-}
-},
-{
-"id": 19,
-"attributes": {
-"name": "a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (27).png",
-"alternativeText": null,
-"caption": null,
-"width": 512,
-"height": 512,
-"formats": {
-"thumbnail": {
-"name": "thumbnail_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (27).png",
-"hash": "thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_ec9732a4ba",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 156,
-"height": 156,
-"size": 66.23,
-"url": "/uploads/thumbnail_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_ec9732a4ba.png"
-},
-"small": {
-"name": "small_a close up flash photograph portrait of drugged out teens in crowded apartment in the lower east side. + photographed by terry richadrson (27).png",
-"hash": "small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_ec9732a4ba",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 500,
-"size": 588.57,
-"url": "/uploads/small_a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_ec9732a4ba.png"
-}
-},
-"hash": "a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_ec9732a4ba",
-"ext": ".png",
-"mime": "image/png",
-"size": 155.77,
-"url": "/uploads/a_close_up_flash_photograph_portrait_of_drugged_out_teens_in_crowded_apartment_in_the_lower_east_side_photographed_by_terry_richadrson_27_ec9732a4ba.png",
-"previewUrl": null,
-"provider": "local",
-"provider_metadata": null,
-"createdAt": "2023-09-23T00:48:53.544Z",
-"updatedAt": "2023-09-23T00:48:53.544Z"
-}
-},
 {
 "id": 6,
 "attributes": {
@@ -688,6 +338,8 @@
 "updatedAt": "2024-02-16T04:44:59.146Z",
 "publishedAt": "2023-09-18T04:37:40.601Z",
 "slug": "style-gan",
+"longdescription": null,
+"shortdescription": null,
 "featuredImage": {
 "data": {
 "id": 7,
@@ -970,6 +622,8 @@
 "updatedAt": "2024-02-16T04:45:08.140Z",
 "publishedAt": "2023-09-23T01:39:45.188Z",
 "slug": "style-gan2",
+"longdescription": null,
+"shortdescription": null,
 "featuredImage": {
 "data": {
 "id": 22,
@@ -1164,6 +818,8 @@
 "updatedAt": "2024-02-26T18:10:35.955Z",
 "publishedAt": "2024-02-26T18:10:35.954Z",
 "slug": "helix",
+"longdescription": null,
+"shortdescription": null,
 "featuredImage": {
 "data": {
 "id": 32,
@@ -1776,6 +1432,8 @@
 "updatedAt": "2024-02-26T18:31:30.904Z",
 "publishedAt": "2024-02-26T18:31:30.901Z",
 "slug": "tracy-chapman",
+"longdescription": null,
+"shortdescription": null,
 "featuredImage": {
 "data": {
 "id": 44,
@@ -2828,6 +2486,1036 @@
 ]
 }
 }
+},
+{
+"id": 6,
+"attributes": {
+"title": "KQED",
+"description": "A big huge wrtie up",
+"date": null,
+"createdAt": "2024-02-26T19:31:44.910Z",
+"updatedAt": "2024-02-26T19:32:28.852Z",
+"publishedAt": "2024-02-26T19:32:28.851Z",
+"slug": "kqed",
+"longdescription": null,
+"shortdescription": null,
+"featuredImage": {
+"data": {
+"id": 48,
+"attributes": {
+"name": "lp4.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_lp4.jpg",
+"hash": "thumbnail_lp4_8bbcc1a369",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 7.6,
+"url": "/uploads/thumbnail_lp4_8bbcc1a369.jpg"
+},
+"small": {
+"name": "small_lp4.jpg",
+"hash": "small_lp4_8bbcc1a369",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 27.67,
+"url": "/uploads/small_lp4_8bbcc1a369.jpg"
+},
+"medium": {
+"name": "medium_lp4.jpg",
+"hash": "medium_lp4_8bbcc1a369",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 56.5,
+"url": "/uploads/medium_lp4_8bbcc1a369.jpg"
+},
+"large": {
+"name": "large_lp4.jpg",
+"hash": "large_lp4_8bbcc1a369",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 93.7,
+"url": "/uploads/large_lp4_8bbcc1a369.jpg"
+}
+},
+"hash": "lp4_8bbcc1a369",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 403.26,
+"url": "/uploads/lp4_8bbcc1a369.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:10.578Z",
+"updatedAt": "2024-02-26T19:31:10.578Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 49,
+"attributes": {
+"name": "Elections Dashboard 2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1228,
+"height": 640,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Elections Dashboard 2.jpg",
+"hash": "thumbnail_Elections_Dashboard_2_a32437e503",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 5.92,
+"url": "/uploads/thumbnail_Elections_Dashboard_2_a32437e503.jpg"
+},
+"large": {
+"name": "large_Elections Dashboard 2.jpg",
+"hash": "large_Elections_Dashboard_2_a32437e503",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 50.67,
+"url": "/uploads/large_Elections_Dashboard_2_a32437e503.jpg"
+},
+"medium": {
+"name": "medium_Elections Dashboard 2.jpg",
+"hash": "medium_Elections_Dashboard_2_a32437e503",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 33.54,
+"url": "/uploads/medium_Elections_Dashboard_2_a32437e503.jpg"
+},
+"small": {
+"name": "small_Elections Dashboard 2.jpg",
+"hash": "small_Elections_Dashboard_2_a32437e503",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 16.74,
+"url": "/uploads/small_Elections_Dashboard_2_a32437e503.jpg"
+}
+},
+"hash": "Elections_Dashboard_2_a32437e503",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 66.69,
+"url": "/uploads/Elections_Dashboard_2_a32437e503.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.219Z",
+"updatedAt": "2024-02-26T19:31:41.219Z"
+}
+},
+{
+"id": 50,
+"attributes": {
+"name": "Elections Dashboard 1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1228,
+"height": 640,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Elections Dashboard 1.jpg",
+"hash": "thumbnail_Elections_Dashboard_1_b00e74a9fe",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 6.35,
+"url": "/uploads/thumbnail_Elections_Dashboard_1_b00e74a9fe.jpg"
+},
+"large": {
+"name": "large_Elections Dashboard 1.jpg",
+"hash": "large_Elections_Dashboard_1_b00e74a9fe",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 54.31,
+"url": "/uploads/large_Elections_Dashboard_1_b00e74a9fe.jpg"
+},
+"medium": {
+"name": "medium_Elections Dashboard 1.jpg",
+"hash": "medium_Elections_Dashboard_1_b00e74a9fe",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 36.62,
+"url": "/uploads/medium_Elections_Dashboard_1_b00e74a9fe.jpg"
+},
+"small": {
+"name": "small_Elections Dashboard 1.jpg",
+"hash": "small_Elections_Dashboard_1_b00e74a9fe",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 19.9,
+"url": "/uploads/small_Elections_Dashboard_1_b00e74a9fe.jpg"
+}
+},
+"hash": "Elections_Dashboard_1_b00e74a9fe",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 71.92,
+"url": "/uploads/Elections_Dashboard_1_b00e74a9fe.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.243Z",
+"updatedAt": "2024-02-26T19:31:41.243Z"
+}
+},
+{
+"id": 51,
+"attributes": {
+"name": "ot2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_ot2.jpg",
+"hash": "thumbnail_ot2_12107700ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 5.45,
+"url": "/uploads/thumbnail_ot2_12107700ce.jpg"
+},
+"large": {
+"name": "large_ot2.jpg",
+"hash": "large_ot2_12107700ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 44.82,
+"url": "/uploads/large_ot2_12107700ce.jpg"
+},
+"medium": {
+"name": "medium_ot2.jpg",
+"hash": "medium_ot2_12107700ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 30.54,
+"url": "/uploads/medium_ot2_12107700ce.jpg"
+},
+"small": {
+"name": "small_ot2.jpg",
+"hash": "small_ot2_12107700ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 16.85,
+"url": "/uploads/small_ot2_12107700ce.jpg"
+}
+},
+"hash": "ot2_12107700ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 153.07,
+"url": "/uploads/ot2_12107700ce.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.306Z",
+"updatedAt": "2024-02-26T19:31:41.306Z"
+}
+},
+{
+"id": 53,
+"attributes": {
+"name": "ot3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_ot3.jpg",
+"hash": "thumbnail_ot3_3e85cb50f1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 6.28,
+"url": "/uploads/thumbnail_ot3_3e85cb50f1.jpg"
+},
+"large": {
+"name": "large_ot3.jpg",
+"hash": "large_ot3_3e85cb50f1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 60.23,
+"url": "/uploads/large_ot3_3e85cb50f1.jpg"
+},
+"medium": {
+"name": "medium_ot3.jpg",
+"hash": "medium_ot3_3e85cb50f1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 38.4,
+"url": "/uploads/medium_ot3_3e85cb50f1.jpg"
+},
+"small": {
+"name": "small_ot3.jpg",
+"hash": "small_ot3_3e85cb50f1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 21.33,
+"url": "/uploads/small_ot3_3e85cb50f1.jpg"
+}
+},
+"hash": "ot3_3e85cb50f1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 217.34,
+"url": "/uploads/ot3_3e85cb50f1.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.356Z",
+"updatedAt": "2024-02-26T19:31:41.356Z"
+}
+},
+{
+"id": 52,
+"attributes": {
+"name": "ot1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_ot1.jpg",
+"hash": "thumbnail_ot1_00ca7ad247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 7.08,
+"url": "/uploads/thumbnail_ot1_00ca7ad247.jpg"
+},
+"large": {
+"name": "large_ot1.jpg",
+"hash": "large_ot1_00ca7ad247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 60.65,
+"url": "/uploads/large_ot1_00ca7ad247.jpg"
+},
+"medium": {
+"name": "medium_ot1.jpg",
+"hash": "medium_ot1_00ca7ad247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 40.32,
+"url": "/uploads/medium_ot1_00ca7ad247.jpg"
+},
+"small": {
+"name": "small_ot1.jpg",
+"hash": "small_ot1_00ca7ad247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 22.93,
+"url": "/uploads/small_ot1_00ca7ad247.jpg"
+}
+},
+"hash": "ot1_00ca7ad247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 207.31,
+"url": "/uploads/ot1_00ca7ad247.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.354Z",
+"updatedAt": "2024-02-26T19:31:41.354Z"
+}
+},
+{
+"id": 54,
+"attributes": {
+"name": "Elections Dashboard 3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1228,
+"height": 640,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Elections Dashboard 3.jpg",
+"hash": "thumbnail_Elections_Dashboard_3_e3341ff901",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 6.81,
+"url": "/uploads/thumbnail_Elections_Dashboard_3_e3341ff901.jpg"
+},
+"medium": {
+"name": "medium_Elections Dashboard 3.jpg",
+"hash": "medium_Elections_Dashboard_3_e3341ff901",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 42.2,
+"url": "/uploads/medium_Elections_Dashboard_3_e3341ff901.jpg"
+},
+"small": {
+"name": "small_Elections Dashboard 3.jpg",
+"hash": "small_Elections_Dashboard_3_e3341ff901",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 22.07,
+"url": "/uploads/small_Elections_Dashboard_3_e3341ff901.jpg"
+},
+"large": {
+"name": "large_Elections Dashboard 3.jpg",
+"hash": "large_Elections_Dashboard_3_e3341ff901",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 65.95,
+"url": "/uploads/large_Elections_Dashboard_3_e3341ff901.jpg"
+}
+},
+"hash": "Elections_Dashboard_3_e3341ff901",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 88.8,
+"url": "/uploads/Elections_Dashboard_3_e3341ff901.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.366Z",
+"updatedAt": "2024-02-26T19:31:41.366Z"
+}
+},
+{
+"id": 55,
+"attributes": {
+"name": "ot4.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2456,
+"height": 1280,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_ot4.jpg",
+"hash": "thumbnail_ot4_f4ebddd5f3",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 128,
+"size": 8.06,
+"url": "/uploads/thumbnail_ot4_f4ebddd5f3.jpg"
+},
+"medium": {
+"name": "medium_ot4.jpg",
+"hash": "medium_ot4_f4ebddd5f3",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 391,
+"size": 55.17,
+"url": "/uploads/medium_ot4_f4ebddd5f3.jpg"
+},
+"small": {
+"name": "small_ot4.jpg",
+"hash": "small_ot4_f4ebddd5f3",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 261,
+"size": 28.13,
+"url": "/uploads/small_ot4_f4ebddd5f3.jpg"
+},
+"large": {
+"name": "large_ot4.jpg",
+"hash": "large_ot4_f4ebddd5f3",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 521,
+"size": 92.9,
+"url": "/uploads/large_ot4_f4ebddd5f3.jpg"
+}
+},
+"hash": "ot4_f4ebddd5f3",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 401.52,
+"url": "/uploads/ot4_f4ebddd5f3.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:31:41.397Z",
+"updatedAt": "2024-02-26T19:31:41.397Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 7,
+"attributes": {
+"title": "Mercurius",
+"description": "An experimental beer company",
+"date": null,
+"createdAt": "2024-02-26T19:52:15.476Z",
+"updatedAt": "2024-02-26T19:52:23.325Z",
+"publishedAt": "2024-02-26T19:52:23.324Z",
+"slug": "mercurius",
+"longdescription": null,
+"shortdescription": null,
+"featuredImage": {
+"data": {
+"id": 60,
+"attributes": {
+"name": "1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2457,
+"height": 1500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 149,
+"size": 11.42,
+"url": "/uploads/thumbnail_1_1563a6df57.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 42.25,
+"url": "/uploads/small_1_1563a6df57.jpg"
+},
+"medium": {
+"name": "medium_1.jpg",
+"hash": "medium_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 93.19,
+"url": "/uploads/medium_1_1563a6df57.jpg"
+},
+"large": {
+"name": "large_1.jpg",
+"hash": "large_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 171.4,
+"url": "/uploads/large_1_1563a6df57.jpg"
+}
+},
+"hash": "1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 822.76,
+"url": "/uploads/1_1563a6df57.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.473Z",
+"updatedAt": "2024-02-26T19:50:19.584Z"
+}
+}
+},
+"projectImages": {
+"data": [
+{
+"id": 56,
+"attributes": {
+"name": "1_final.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1179,
+"height": 720,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1_final.jpg",
+"hash": "thumbnail_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 150,
+"size": 10.75,
+"url": "/uploads/thumbnail_1_final_1cfd925da1.jpg"
+},
+"small": {
+"name": "small_1_final.jpg",
+"hash": "small_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 42.38,
+"url": "/uploads/small_1_final_1cfd925da1.jpg"
+},
+"medium": {
+"name": "medium_1_final.jpg",
+"hash": "medium_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 93.24,
+"url": "/uploads/medium_1_final_1cfd925da1.jpg"
+},
+"large": {
+"name": "large_1_final.jpg",
+"hash": "large_1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 163.83,
+"url": "/uploads/large_1_final_1cfd925da1.jpg"
+}
+},
+"hash": "1_final_1cfd925da1",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 229.92,
+"url": "/uploads/1_final_1cfd925da1.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.324Z",
+"updatedAt": "2024-02-26T19:50:12.324Z"
+}
+},
+{
+"id": 57,
+"attributes": {
+"name": "1l.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1179,
+"height": 720,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1l.jpg",
+"hash": "thumbnail_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 150,
+"size": 10.59,
+"url": "/uploads/thumbnail_1l_4896269f1f.jpg"
+},
+"small": {
+"name": "small_1l.jpg",
+"hash": "small_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 41.49,
+"url": "/uploads/small_1l_4896269f1f.jpg"
+},
+"medium": {
+"name": "medium_1l.jpg",
+"hash": "medium_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 91.28,
+"url": "/uploads/medium_1l_4896269f1f.jpg"
+},
+"large": {
+"name": "large_1l.jpg",
+"hash": "large_1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 160.96,
+"url": "/uploads/large_1l_4896269f1f.jpg"
+}
+},
+"hash": "1l_4896269f1f",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 225.47,
+"url": "/uploads/1l_4896269f1f.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.328Z",
+"updatedAt": "2024-02-26T19:50:12.328Z"
+}
+},
+{
+"id": 58,
+"attributes": {
+"name": "beer.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2491,
+"height": 2183,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_beer.jpg",
+"hash": "thumbnail_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 178,
+"height": 156,
+"size": 3.44,
+"url": "/uploads/thumbnail_beer_74f62ca247.jpg"
+},
+"large": {
+"name": "large_beer.jpg",
+"hash": "large_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 876,
+"size": 47.26,
+"url": "/uploads/large_beer_74f62ca247.jpg"
+},
+"medium": {
+"name": "medium_beer.jpg",
+"hash": "medium_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 657,
+"size": 30.01,
+"url": "/uploads/medium_beer_74f62ca247.jpg"
+},
+"small": {
+"name": "small_beer.jpg",
+"hash": "small_beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 438,
+"size": 16.28,
+"url": "/uploads/small_beer_74f62ca247.jpg"
+}
+},
+"hash": "beer_74f62ca247",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 191.8,
+"url": "/uploads/beer_74f62ca247.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.405Z",
+"updatedAt": "2024-02-26T19:50:12.405Z"
+}
+},
+{
+"id": 59,
+"attributes": {
+"name": "blush2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1600,
+"height": 1600,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_blush2.jpg",
+"hash": "thumbnail_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 5.75,
+"url": "/uploads/thumbnail_blush2_1c5cf611ce.jpg"
+},
+"small": {
+"name": "small_blush2.jpg",
+"hash": "small_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 49.97,
+"url": "/uploads/small_blush2_1c5cf611ce.jpg"
+},
+"medium": {
+"name": "medium_blush2.jpg",
+"hash": "medium_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 101.73,
+"url": "/uploads/medium_blush2_1c5cf611ce.jpg"
+},
+"large": {
+"name": "large_blush2.jpg",
+"hash": "large_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 161.27,
+"url": "/uploads/large_blush2_1c5cf611ce.jpg"
+}
+},
+"hash": "blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 333.38,
+"url": "/uploads/blush2_1c5cf611ce.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.413Z",
+"updatedAt": "2024-02-26T19:50:12.413Z"
+}
+},
+{
+"id": 60,
+"attributes": {
+"name": "1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2457,
+"height": 1500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 149,
+"size": 11.42,
+"url": "/uploads/thumbnail_1_1563a6df57.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 42.25,
+"url": "/uploads/small_1_1563a6df57.jpg"
+},
+"medium": {
+"name": "medium_1.jpg",
+"hash": "medium_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 93.19,
+"url": "/uploads/medium_1_1563a6df57.jpg"
+},
+"large": {
+"name": "large_1.jpg",
+"hash": "large_1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 171.4,
+"url": "/uploads/large_1_1563a6df57.jpg"
+}
+},
+"hash": "1_1563a6df57",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 822.76,
+"url": "/uploads/1_1563a6df57.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.473Z",
+"updatedAt": "2024-02-26T19:50:19.584Z"
+}
+},
+{
+"id": 61,
+"attributes": {
+"name": "cans_0402_B_final.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2457,
+"height": 1500,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_cans_0402_B_final.jpg",
+"hash": "thumbnail_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 149,
+"size": 10.82,
+"url": "/uploads/thumbnail_cans_0402_B_final_572886f29d.jpg"
+},
+"small": {
+"name": "small_cans_0402_B_final.jpg",
+"hash": "small_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 305,
+"size": 43.67,
+"url": "/uploads/small_cans_0402_B_final_572886f29d.jpg"
+},
+"medium": {
+"name": "medium_cans_0402_B_final.jpg",
+"hash": "medium_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 458,
+"size": 97.63,
+"url": "/uploads/medium_cans_0402_B_final_572886f29d.jpg"
+},
+"large": {
+"name": "large_cans_0402_B_final.jpg",
+"hash": "large_cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 611,
+"size": 180.82,
+"url": "/uploads/large_cans_0402_B_final_572886f29d.jpg"
+}
+},
+"hash": "cans_0402_B_final_572886f29d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 987.81,
+"url": "/uploads/cans_0402_B_final_572886f29d.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.481Z",
+"updatedAt": "2024-02-26T19:50:12.481Z"
+}
+}
+]
+}
+}
 }
 ],
 "meta": {
@@ -2835,7 +3523,7 @@
 "page": 1,
 "pageSize": 25,
 "pageCount": 1,
-"total": 5
+"total": 7
 }
 }
 }
