@@ -45,7 +45,6 @@
     <div class="container m-auto w-3/4 bg-[#F9F9F9]">
         <div class="tile nav-links col-span-12 mb-4 bg-[#F9F9F9] pt-4">
             <a href="/blog/" class="font-bold">Jason Herring</a><br />
-            <h1 class="text-4xl">{pageTitle}</h1>
 
             <div
                 class={` transition-all duration-300 ${
@@ -59,15 +58,20 @@
                 <span class="slash"></span>
                 <!-- <a href="resume.php"  id="resume">BOARD CAM [ <span class="liveRed">LIVE </span> ]</a> <span class="slash">/</span>-->
                 <br />
+                <a href="/projects-db/nike-free/" id="nike-free">
+                    Nike Free
+                </a><br />
+                <a href="/projects-db/helix/" id="nike-free"> Helix </a><br />
                 <span class="font-bold">INFORMATION</span>
+
                 <NavLink
-                    href="/projects/covid-gans"
-                    title="Personal History"
+                    href="/projects-db/helix"
+                    title="Helix"
                     on:navigate={handleNavigate}
                 />
                 <NavLink
-                    href="/projects/surrealist-dreams"
-                    title="CV Resume"
+                    href="/projects-db/nike-free"
+                    title="Nike Free"
                     on:navigate={handleNavigate}
                 />
                 <br />

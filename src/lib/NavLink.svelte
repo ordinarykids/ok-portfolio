@@ -9,11 +9,12 @@
     function handleClick() {
         dispatch("navigate", {
             title,
+            href,
         });
     }
 </script>
 
-<a {href} on:click={handleClick}>{title} </a> /
+<a {href}>{title} </a> /
 
 <style>
     a {

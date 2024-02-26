@@ -1,59 +1,34 @@
 <script>
     import { page } from "$app/stores";
     import { onMount } from "svelte";
-    import projects from '../../project-data.json'
+    import projects from "../../project-data.json";
+    export let data;
 
-    export async function get() {
-   
-      return {
-        status: 200,
-        body: {
-            projects
-        }
-      }
-
-    }
-
-
-    onMount(() => {
-        let test = get();
-        console.log($page.url)
-
-
-        $: console.log($page.params);
-
-        let projectSlug = $page.params.project;
-    })
-    let test = get();
-    console.log(test)
-
-
-    $: console.log($page.params);
-
-    let projectSlug = $page.params.project;
-
-
-
+    $: currentProject = projects.data.find(
+        (project) => project.attributes.slug === data.project,
+    );
 </script>
 
 <div
-    class="container m-auto w-3/5 md:w-full m:w-full sm:w-full grid grid-cols-12 md:grid-cols-4 lg:grid-cols-12 gap-4"
+    class="container grid w-full gap-4 sm:m-4 sm:w-full sm:grid-cols-12 md:w-full md:grid-cols-12 lg:m-auto lg:grid-cols-12"
 >
-    <div class="tile col-span-4">
-        <h1>Aleph Mood Reel</h1>
+    <div class="tile col-span-12 md:col-span-12 lg:col-span-4">
+        <h1 class="text-3xl">{currentProject.attributes.title}</h1>
         <h2>
             Real time coding using TouchDesigner to explore AI generated
             moodboards
         </h2>
 
-        <h1>{projectSlug}</h1>
-        <div>
-       
-        </div>
+        <div>{@html currentProject.attributes.description}</div>
 
         <div class="underLine"></div>
         <h2>Info</h2>
-        <p></p>
+        <p>
+            <img
+                src={currentProject.attributes.featuredImage.data.attributes
+                    .url}
+            />
+        </p>
         <div class="">
             .
             <div>
@@ -76,7 +51,14 @@
         </div>
     </div>
 
-    <div class="tile col-span-6">
+    <div class="tile col-span-8">
+        {#each currentProject.attributes.projectImages.data as projectImage, i}
+            <div class="mx-8">
+                <img class="w-full p-4" src={projectImage.attributes.url} />
+                <p class="mb-8 w-full p-4">{projectImage.attributes.caption}</p>
+            </div>
+        {/each}
+
         <img src="/aleph/peaceout.jpg" alt="collage" />
         <h5>
             Numerous collages mixing Midjounery generated images and traditonal

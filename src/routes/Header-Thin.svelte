@@ -35,7 +35,20 @@
     onMount(() => {
         window.addEventListener("scroll", handleScroll);
     });
+    let isBlack = false;
+  
+  function toggleButton() {
+    isBlack = !isBlack;
+  }
 </script>
+
+
+
+  
+
+
+  
+
 
 <nav
     class={`fixed left-0 top-0  z-10 flex w-full  items-center justify-between transition-all  duration-300`}
@@ -178,4 +191,12 @@
         text-decoration: underline;
         cursor: pointer;
     }
+
+    button {
+      /* Ensure the button is massive */
+      width: 300px; /* Adjust the width as needed */
+      height: 100px; /* Adjust the height as needed */
+    }
+
+
 </style>

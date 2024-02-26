@@ -1,26 +1,29 @@
-
 <script>
-    let selected = 'google'; // Default selection
-  
+    let selected = "google"; // Default selection
+
     const options = [
-        { value: 'google', label: 'Google', url: 'https://www.google.com' },
-        { value: 'duckduckgo', label: 'DuckDuckGo', url: 'https://duckduckgo.com' },
-        { value: 'bing', label: 'Bing', url: 'https://www.bing.com' }
+        { value: "google", label: "KQED", url: "https://www.google.com" },
+        {
+            value: "duckduckgo",
+            label: "NIKE Free",
+            url: "https://duckduckgo.com",
+        },
+        { value: "bing", label: "Aleph", url: "https://www.bing.com" },
     ];
-  
+
     function handleSelectChange(event) {
         selected = event.detail.value;
-        window.location.href = options.find(option => option.value === selected).url;
+        console.log(event);
     }
-  </script>
+</script>
 
 <select bind:value={selected} on:change={handleSelectChange}>
     {#each options as option}
-      <option value={option.value}>
-          {option.label}
-      </option>
+        <option value={option.value}>
+            {option.label}
+        </option>
     {/each}
-  </select>
-<div class="container m-auto w-3/4 bg-green-100">
+</select>
+<div class="container m-auto w-3/4">
     <slot />
 </div>

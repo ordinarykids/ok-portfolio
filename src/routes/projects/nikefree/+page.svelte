@@ -2,6 +2,7 @@
     import { page } from "$app/stores";
     import { onMount } from "svelte";
     import SplideShow from "@/Splideshow.svelte";
+    import Youtube from "svelte-youtube-embed";
 
     import { Splide, SplideSlide } from "@splidejs/svelte-splide";
     // or only core styles
@@ -14,14 +15,14 @@
 <div class="container m-auto w-3/4">
     <Splide aria-label="My Favorite Images" imageData={slideshowImages}>
         <SplideSlide>
-            <img src="/.jpg" alt="collage" class="draggable" />
+            <img src="/TracyChapman/1.jpg" alt="collage" class="draggable" />
         </SplideSlide>
     </Splide>
-    <Youtube
-        id="9TTWpg4pKhI&"
+    <!-- <Youtube
+        id="UahDOGXumQo&"
         --overlay-bg-color="hsla(0, 0%, 0%, 0.3)"
         --overlay-transition="all 100ms linear"
-    />
+    /> -->
 </div>
 
 <div class="container m-auto w-3/4">
@@ -124,15 +125,7 @@
             Numerous collages mixing Midjounery generated images and traditonal
             design elements were developed during my leadership at Aleph.
         </h5>
-        <iframe
-            width="100%"
-            height="600px"
-            src="https://www.youtube.com/embed/FFpdC3Qbggg"
-            title="Random Stuff on my Figma Boards"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowfullscreen
-        ></iframe>
+
         <h5>
             Overview of the product photography we art directed and had
             photographed.
