@@ -10,57 +10,47 @@
 </script>
 
 <div
-    class="container grid w-full gap-4 sm:m-4 sm:w-full sm:grid-cols-12 md:w-full md:grid-cols-12 lg:m-auto lg:grid-cols-12"
+    class="container grid w-full gap-16 sm:m-4 sm:w-full sm:grid-cols-12 md:w-full md:grid-cols-12 lg:m-auto lg:grid-cols-12"
 >
     <div class="tile col-span-12 md:col-span-12 lg:col-span-4">
-        <h1 class="pb-4 text-3xl font-black">
-            {currentProject.attributes.title}
-        </h1>
-        <h2>
-            Real time coding using TouchDesigner to explore AI generated
-            moodboards
-        </h2>
-        <div>{@html currentProject.attributes.shortdescription}</div>
-        <div>{@html currentProject.attributes.description}</div>
-
-        <div class="underLine"></div>
-        <h2>Info</h2>
         <p>
             <img
                 src={currentProject.attributes.featuredImage.data.attributes
                     .url}
             />
         </p>
-        <div class="">
-            .
-            <div>
-                <h2>Tags</h2>
-                <ul>
-                    <li>Creative Direction</li>
-                    <li>UX Design</li>
-                    ≥
-                    <li>Moodboards</li>
-                    <li>Web Developement</li>
-                </ul>
-            </div>
-            <div>
-                <h2>Credits</h2>
-                <ul>
-                    <li>Jason Herring - Creative Director</li>
-                    <li>Sony Maharjan- UX Designer</li>
-                </ul>
-            </div>
-        </div>
+        <h1 class="py-4 text-6xl font-black">
+            {currentProject.attributes.title}
+        </h1>
+
+        <h2 class="font-this text-xl">
+            {@html currentProject.attributes.shortdescription}
+        </h2>
+        <div>{@html currentProject.attributes.longdescription}</div>
+
+        <div class="underLine"></div>
+        <h2>Info</h2>
     </div>
 
     <div class="tile col-span-8">
+        {#if currentProject.attributes.specialsauce}
+            <p class="mb-8 w-full">
+                {@html currentProject.attributes.specialsauce}
+            </p>
+        {/if}
+
         {#each currentProject.attributes.projectImages.data as projectImage, i}
             <div class="mx-8">
-                <img class="w-full p-4" src={projectImage.attributes.url} />
-                <p class="mb-8 w-full p-4">{projectImage.attributes.caption}</p>
+                <img class="w-full pb-4" src={projectImage.attributes.url} />
+
+                {#if projectImage.attributes.caption}
+                    <p class="mb-8 w-full p-4">
+                        {projectImage.attributes.caption}
+                    </p>
+                {/if}
             </div>
         {/each}
-
+        <!--
         <img src="/aleph/peaceout.jpg" alt="collage" />
         <h5>
             Numerous collages mixing Midjounery generated images and traditonal
@@ -78,6 +68,6 @@
         <h5>
             Overview of the product photography we art directed and had
             photographed.
-        </h5>
+        </h5> -->
     </div>
 </div>

@@ -42,14 +42,19 @@
     on:mouseenter={handleHover}
     on:mouseleave={handleLeave}
 >
-    <div class="container m-auto w-3/4 bg-[#F9F9F9]">
+    <div class="container m-auto w-full bg-[#F9F9F9]">
         <div class="tile nav-links col-span-12 mb-4 bg-[#F9F9F9] pt-4">
-            <a href="/blog/" class="text-5xl font-thin hover:no-underline"
+            <a href="/blog/" class="text-xl font-thin hover:no-underline"
                 >Jason Herring</a
             ><br />
-            <div
+            <!-- <div
                 class={` transition-all duration-300 ${
                     isHovered ? "h-24" : "h-0"
+                } z-10  overflow-hidden `}
+            > -->
+            <div
+                class={` transition-all duration-300 ${
+                    isHovered ? "h-24" : "h-24"
                 } z-10  overflow-hidden `}
             >
                 <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
@@ -84,7 +89,7 @@
                 <br />
                 <span class="font-bold">EXPERIMENTS</span>
                 <NavLink
-                    href="/projects/covid-gans"
+                    href="/projects-db/style-gan2"
                     title="Early Covid GANs"
                     on:navigate={handleNavigate}
                 />
