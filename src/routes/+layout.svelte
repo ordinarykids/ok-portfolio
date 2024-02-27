@@ -6,14 +6,13 @@
     import "@fontsource/ibm-plex-mono/400-italic.css";
     import "@fontsource/ibm-plex-mono/700-italic.css";
     import "../app.css";
-    import HeaderButtons from "./Header-Buttons.svelte";
 </script>
 
 <!-- <div class="container m-auto ">
   <slot />
 </div> -->
 <Header />
-<div class="mt-24 py-16">
+<div class="mt-24 py-16 sm:w-full sm:px-4">
     <slot />
 </div>
 

@@ -37,127 +37,129 @@
     });
 </script>
 
-<nav
-    class={`fixed left-0 top-0  z-10 flex w-full  items-center justify-between transition-all  duration-300`}
-    on:mouseenter={handleHover}
-    on:mouseleave={handleLeave}
->
-    <div class="container m-auto w-full bg-[#F9F9F9]">
-        <div class="tile nav-links col-span-12 mb-4 bg-[#F9F9F9] pt-4">
-            <a href="/blog/" class="text-xl font-thin hover:no-underline"
-                >Jason Herring</a
-            ><br />
-            <!-- <div
+<div class="container mx-auto px-4">
+    <nav
+        class={`fixed left-0 top-0  z-10 flex w-full  items-center justify-between px-4 transition-all  duration-300`}
+        on:mouseenter={handleHover}
+        on:mouseleave={handleLeave}
+    >
+        <div class="container m-auto w-full bg-[#F9F9F9]">
+            <div class="tile nav-links col-span-12 mb-4 bg-[#F9F9F9] pt-4">
+                <a href="/blog/" class="text-xl font-thin hover:no-underline"
+                    >Jason Herring</a
+                ><br />
+                <!-- <div
                 class={` transition-all duration-300 ${
                     isHovered ? "h-24" : "h-0"
                 } z-10  overflow-hidden `}
             > -->
-            <div
-                class={` transition-all duration-300 ${
-                    isHovered ? "h-24" : "h-24"
-                } z-10  overflow-hidden `}
-            >
-                <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
-                <!-- <a href="./bio.php"  id="bio">Biography</a> <span class="slash">/</span> -->
-                <a href="/" id="resume">CV RESUME</a>
-                <span class="slash"></span>
-                <!-- <a href="resume.php"  id="resume">BOARD CAM [ <span class="liveRed">LIVE </span> ]</a> <span class="slash">/</span>-->
-                <br />
+                <div
+                    class={` transition-all duration-300 ${
+                        isHovered ? "h-24" : "h-24"
+                    } z-10  overflow-hidden `}
+                >
+                    <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
+                    <!-- <a href="./bio.php"  id="bio">Biography</a> <span class="slash">/</span> -->
+                    <a href="/" id="resume">CV RESUME</a>
+                    <span class="slash"></span>
+                    <!-- <a href="resume.php"  id="resume">BOARD CAM [ <span class="liveRed">LIVE </span> ]</a> <span class="slash">/</span>-->
+                    <br />
 
-                <span class="font-bold">CASE STUDIES</span>
+                    <span class="font-bold">CASE STUDIES</span>
 
-                <NavLink
-                    href="/projects-db/helix"
-                    title="Helix"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects-db/nike-free"
-                    title="Nike Free"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects-db/tracy-chapman"
-                    title="Tracy Chapman"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects-db/nike-free"
-                    title="Nike Free"
-                    on:navigate={handleNavigate}
-                />
-                <br />
-                <span class="font-bold">EXPERIMENTS</span>
-                <NavLink
-                    href="/projects-db/style-gan2"
-                    title="Early Covid GANs"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects/surrealist-dreams"
-                    title="Surrealist Dreams"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects-db/mercurius"
-                    title="Mercurius Beer"
-                    on:navigate={handleNavigate}
-                />
+                    <NavLink
+                        href="/projects-db/helix"
+                        title="Helix"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects-db/nike-free"
+                        title="Nike Free"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects-db/tracy-chapman"
+                        title="Tracy Chapman"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects-db/nike-free"
+                        title="Nike Free"
+                        on:navigate={handleNavigate}
+                    />
+                    <br />
+                    <span class="font-bold">EXPERIMENTS</span>
+                    <NavLink
+                        href="/projects-db/style-gan2"
+                        title="Early Covid GANs"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects/surrealist-dreams"
+                        title="Surrealist Dreams"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects-db/mercurius"
+                        title="Mercurius Beer"
+                        on:navigate={handleNavigate}
+                    />
 
-                <NavLink
-                    href="/projects/kodiak"
-                    title="Kodiak"
-                    on:navigate={handleNavigate}
-                />
+                    <NavLink
+                        href="/projects/kodiak"
+                        title="Kodiak"
+                        on:navigate={handleNavigate}
+                    />
 
-                <br />
-                <span class="font-bold">RECENT WORK</span>
-                <NavLink
-                    href="/projects/aleph"
-                    title="Aleph Rebrand"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects/helix"
-                    title="Helix"
-                    on:navigate={handleNavigate}
-                />
+                    <br />
+                    <span class="font-bold">RECENT WORK</span>
+                    <NavLink
+                        href="/projects/aleph"
+                        title="Aleph Rebrand"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects/helix"
+                        title="Helix"
+                        on:navigate={handleNavigate}
+                    />
 
-                <NavLink
-                    href="/projects/kodiak"
-                    title="Kodiak"
-                    on:navigate={handleNavigate}
-                />
+                    <NavLink
+                        href="/projects/kodiak"
+                        title="Kodiak"
+                        on:navigate={handleNavigate}
+                    />
 
-                <br />
-                <span class="font-bold">SELECTED KQED PROJECTS</span>
-                <NavLink
-                    href="/projects/kqed-articles"
-                    title="Article Template"
-                    on:navigate={handleNavigate}
-                />
-                <NavLink
-                    href="/projects/kqed-lp"
-                    title="Election Dashoards"
-                    on:navigate={handleNavigate}
-                />
+                    <br />
+                    <span class="font-bold">SELECTED KQED PROJECTS</span>
+                    <NavLink
+                        href="/projects/kqed-articles"
+                        title="Article Template"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects/kqed-lp"
+                        title="Election Dashoards"
+                        on:navigate={handleNavigate}
+                    />
 
-                <NavLink
-                    href="/projects/kqed-arts-app"
-                    title="Arts App"
-                    on:navigate={handleNavigate}
-                />
+                    <NavLink
+                        href="/projects/kqed-arts-app"
+                        title="Arts App"
+                        on:navigate={handleNavigate}
+                    />
+                </div>
             </div>
-        </div>
-        <!-- <div class="font-bold">Logo</div>
+            <!-- <div class="font-bold">Logo</div>
     <ul class="flex space-x-4">
         <li class="hover:text-gray-400"><a href="#">Home</a></li>
         <li class="hover:text-gray-400"><a href="#">About</a></li>
         <li class="hover:text-gray-400"><a href="#">Services</a></li>
         <li class="hover:text-gray-400"><a href="#">Contact</a></li>
     </ul> -->
-    </div>
-</nav>
+        </div>
+    </nav>
+</div>
 <div class="fixed"></div>
 <svelte:window bind:scrollY />
 
