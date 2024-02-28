@@ -1,37 +1,36 @@
 <script>
     import { page } from "$app/stores";
     import { onMount } from "svelte";
-    import projects from "../../project-data.json";
+    import projects from "../randoms-data.json";
     export let data;
 
-    $: currentProject = projects.data.find(
-        (project) => project.attributes.slug === data.project,
-    );
+    onMount(() => {
+        console.log("the component has mounted");
+    });
+
+    $: currentProject =
+        projects.data[Math.floor(Math.random() * projects.data.length)];
+    console.log(currentProject);
 </script>
+
+<div>{currentProject.attributes.title}</div>
 
 <div class="container mx-auto">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
         <div>
             <!-- Content for first column -->
             <div class="w-full">
-                <p>
+                <!-- <p>
                     <img
                         class="w-full"
                         alt="feature project image "
                         src={currentProject.attributes.featuredImage.data
                             .attributes.url}
                     />
-                </p>
+                </p> -->
                 <h1 class="py-4 text-6xl font-black">
                     {currentProject.attributes.title}
                 </h1>
-
-                <h2 class="font-this text-xl">
-                    {@html currentProject.attributes.shortdescription}
-                </h2>
-                <div class="columns-2">
-                    {@html currentProject.attributes.longdescription}
-                </div>
 
                 <div class="underLine"></div>
                 <h2>Info</h2>
@@ -39,14 +38,15 @@
         </div>
         <div>
             <!-- Content for second column -->
+
             <div class="tile col-span-12">
-                {#if currentProject.attributes.specialsauce}
+                <!-- {#if currentProject.attributes.specialsauce}
                     <div class="mx-0 mb-8 w-full">
                         {@html currentProject.attributes.specialsauce}
                     </div>
-                {/if}
+                {/if} -->
 
-                {#each currentProject.attributes.projectImages.data as projectImage, i}
+                {#each currentProject.attributes.image.data as projectImage, i}
                     <div>
                         <img
                             class="w-full pb-4"

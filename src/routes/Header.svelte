@@ -35,16 +35,21 @@
     onMount(() => {
         window.addEventListener("scroll", handleScroll);
     });
+
+    function reloadPage() {
+        console.log(window.location);
+        window.location.reload();
+    }
 </script>
 
 <div class="container mx-auto px-4">
     <nav
-        class={`fixed left-0 top-0  z-10 flex w-full  items-center justify-between px-4 transition-all  duration-300`}
+        class={` left-0 top-0 z-10 m-auto  flex w-full max-w-screen-lg  items-center justify-between px-4 transition-all  duration-300`}
         on:mouseenter={handleHover}
         on:mouseleave={handleLeave}
     >
         <div class="container m-auto w-full bg-[#F9F9F9]">
-            <div class="tile nav-links col-span-12 mb-4 bg-[#F9F9F9] pt-4">
+            <div class="tile nav-links col-span-12 mb-0 bg-[#F9F9F9] pt-4">
                 <a href="/blog/" class="text-xl font-thin hover:no-underline"
                     >Jason Herring</a
                 ><br />
@@ -55,7 +60,7 @@
             > -->
                 <div
                     class={` transition-all duration-300 ${
-                        isHovered ? "h-24" : "h-24"
+                        isHovered ? "h-16" : "h-16"
                     } z-10  overflow-hidden `}
                 >
                     <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
@@ -129,9 +134,9 @@
                         title="Kodiak"
                         on:navigate={handleNavigate}
                     />
-
-                    <br />
                 </div>
+
+                <div><button on:click={reloadPage}>Reload Page</button></div>
             </div>
             <!-- <div class="font-bold">Logo</div>
     <ul class="flex space-x-4">

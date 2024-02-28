@@ -1,0 +1,1696 @@
+{
+"data": [
+{
+"id": 1,
+"attributes": {
+"createdAt": "2024-02-28T17:37:36.077Z",
+"updatedAt": "2024-02-28T17:37:36.077Z",
+"publishedAt": "2024-02-28T18:29:39.655Z",
+"title": "MoMA - Design Takes on Risk",
+"description": "he best part about working on this fun project with MoMA in NYC was not the project although that was pretty epic. The best part was writing the proposal and our creative response. The brief asked us to discuss fear in our daily lives and how we might create a microsite to convey this adaptation to fear. ",
+"image": {
+"data": [
+{
+"id": 62,
+"attributes": {
+"name": "moma0.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 510,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma0.jpg",
+"hash": "thumbnail_moma0_937ae7efaf",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 228,
+"height": 156,
+"size": 2.92,
+"url": "/uploads/thumbnail_moma0_937ae7efaf.jpg"
+},
+"small": {
+"name": "small_moma0.jpg",
+"hash": "small_moma0_937ae7efaf",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 342,
+"size": 9.7,
+"url": "/uploads/small_moma0_937ae7efaf.jpg"
+}
+},
+"hash": "moma0_937ae7efaf",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 19.91,
+"url": "/uploads/moma0_937ae7efaf.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:39.914Z",
+"updatedAt": "2024-02-28T17:36:39.914Z"
+}
+},
+{
+"id": 63,
+"attributes": {
+"name": "moma5.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 800,
+"height": 524,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma5.jpg",
+"hash": "thumbnail_moma5_a0d2042905",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 6.06,
+"url": "/uploads/thumbnail_moma5_a0d2042905.jpg"
+},
+"medium": {
+"name": "medium_moma5.jpg",
+"hash": "medium_moma5_a0d2042905",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 491,
+"size": 36.68,
+"url": "/uploads/medium_moma5_a0d2042905.jpg"
+},
+"small": {
+"name": "small_moma5.jpg",
+"hash": "small_moma5_a0d2042905",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 328,
+"size": 19,
+"url": "/uploads/small_moma5_a0d2042905.jpg"
+}
+},
+"hash": "moma5_a0d2042905",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 41.94,
+"url": "/uploads/moma5_a0d2042905.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:39.920Z",
+"updatedAt": "2024-02-28T17:36:39.920Z"
+}
+},
+{
+"id": 64,
+"attributes": {
+"name": "moma3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma3.jpg",
+"hash": "thumbnail_moma3_a3a188197d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 3.47,
+"url": "/uploads/thumbnail_moma3_a3a188197d.jpg"
+},
+"large": {
+"name": "large_moma3.jpg",
+"hash": "large_moma3_a3a188197d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 35.41,
+"url": "/uploads/large_moma3_a3a188197d.jpg"
+},
+"medium": {
+"name": "medium_moma3.jpg",
+"hash": "medium_moma3_a3a188197d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 21.74,
+"url": "/uploads/medium_moma3_a3a188197d.jpg"
+},
+"small": {
+"name": "small_moma3.jpg",
+"hash": "small_moma3_a3a188197d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 11,
+"url": "/uploads/small_moma3_a3a188197d.jpg"
+}
+},
+"hash": "moma3_a3a188197d",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 47.73,
+"url": "/uploads/moma3_a3a188197d.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:39.935Z",
+"updatedAt": "2024-02-28T17:36:39.935Z"
+}
+},
+{
+"id": 65,
+"attributes": {
+"name": "moma1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 497,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma1.jpg",
+"hash": "thumbnail_moma1_d2c6c7a0ab",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 235,
+"height": 156,
+"size": 10.22,
+"url": "/uploads/thumbnail_moma1_d2c6c7a0ab.jpg"
+},
+"small": {
+"name": "small_moma1.jpg",
+"hash": "small_moma1_d2c6c7a0ab",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 35.39,
+"url": "/uploads/small_moma1_d2c6c7a0ab.jpg"
+}
+},
+"hash": "moma1_d2c6c7a0ab",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 69.32,
+"url": "/uploads/moma1_d2c6c7a0ab.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:39.948Z",
+"updatedAt": "2024-02-28T17:36:39.948Z"
+}
+},
+{
+"id": 66,
+"attributes": {
+"name": "moma7.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 800,
+"height": 524,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma7.jpg",
+"hash": "thumbnail_moma7_197b664791",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 6.9,
+"url": "/uploads/thumbnail_moma7_197b664791.jpg"
+},
+"medium": {
+"name": "medium_moma7.jpg",
+"hash": "medium_moma7_197b664791",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 491,
+"size": 50.98,
+"url": "/uploads/medium_moma7_197b664791.jpg"
+},
+"small": {
+"name": "small_moma7.jpg",
+"hash": "small_moma7_197b664791",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 328,
+"size": 24.74,
+"url": "/uploads/small_moma7_197b664791.jpg"
+}
+},
+"hash": "moma7_197b664791",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 58.4,
+"url": "/uploads/moma7_197b664791.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:39.957Z",
+"updatedAt": "2024-02-28T17:36:39.957Z"
+}
+},
+{
+"id": 67,
+"attributes": {
+"name": "moma4.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma4.jpg",
+"hash": "thumbnail_moma4_42e168ab2e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 4.33,
+"url": "/uploads/thumbnail_moma4_42e168ab2e.jpg"
+},
+"large": {
+"name": "large_moma4.jpg",
+"hash": "large_moma4_42e168ab2e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 47.33,
+"url": "/uploads/large_moma4_42e168ab2e.jpg"
+},
+"medium": {
+"name": "medium_moma4.jpg",
+"hash": "medium_moma4_42e168ab2e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 29.02,
+"url": "/uploads/medium_moma4_42e168ab2e.jpg"
+},
+"small": {
+"name": "small_moma4.jpg",
+"hash": "small_moma4_42e168ab2e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 14.86,
+"url": "/uploads/small_moma4_42e168ab2e.jpg"
+}
+},
+"hash": "moma4_42e168ab2e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 64.32,
+"url": "/uploads/moma4_42e168ab2e.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:39.969Z",
+"updatedAt": "2024-02-28T17:36:39.969Z"
+}
+},
+{
+"id": 68,
+"attributes": {
+"name": "moma6.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 800,
+"height": 524,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma6.jpg",
+"hash": "thumbnail_moma6_e0b16bb3ca",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 7.13,
+"url": "/uploads/thumbnail_moma6_e0b16bb3ca.jpg"
+},
+"medium": {
+"name": "medium_moma6.jpg",
+"hash": "medium_moma6_e0b16bb3ca",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 491,
+"size": 48.04,
+"url": "/uploads/medium_moma6_e0b16bb3ca.jpg"
+},
+"small": {
+"name": "small_moma6.jpg",
+"hash": "small_moma6_e0b16bb3ca",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 328,
+"size": 23.95,
+"url": "/uploads/small_moma6_e0b16bb3ca.jpg"
+}
+},
+"hash": "moma6_e0b16bb3ca",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 53.66,
+"url": "/uploads/moma6_e0b16bb3ca.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:40.021Z",
+"updatedAt": "2024-02-28T17:36:40.021Z"
+}
+},
+{
+"id": 69,
+"attributes": {
+"name": "moma8.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 800,
+"height": 524,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma8.jpg",
+"hash": "thumbnail_moma8_64a9a0ce5c",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 9.41,
+"url": "/uploads/thumbnail_moma8_64a9a0ce5c.jpg"
+},
+"small": {
+"name": "small_moma8.jpg",
+"hash": "small_moma8_64a9a0ce5c",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 328,
+"size": 38.19,
+"url": "/uploads/small_moma8_64a9a0ce5c.jpg"
+},
+"medium": {
+"name": "medium_moma8.jpg",
+"hash": "medium_moma8_64a9a0ce5c",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 491,
+"size": 82.18,
+"url": "/uploads/medium_moma8_64a9a0ce5c.jpg"
+}
+},
+"hash": "moma8_64a9a0ce5c",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 95.28,
+"url": "/uploads/moma8_64a9a0ce5c.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:40.032Z",
+"updatedAt": "2024-02-28T17:36:40.032Z"
+}
+},
+{
+"id": 70,
+"attributes": {
+"name": "moma9.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 800,
+"height": 524,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma9.jpg",
+"hash": "thumbnail_moma9_07ea7a594b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 5.35,
+"url": "/uploads/thumbnail_moma9_07ea7a594b.jpg"
+},
+"small": {
+"name": "small_moma9.jpg",
+"hash": "small_moma9_07ea7a594b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 328,
+"size": 17.77,
+"url": "/uploads/small_moma9_07ea7a594b.jpg"
+},
+"medium": {
+"name": "medium_moma9.jpg",
+"hash": "medium_moma9_07ea7a594b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 491,
+"size": 34.48,
+"url": "/uploads/medium_moma9_07ea7a594b.jpg"
+}
+},
+"hash": "moma9_07ea7a594b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 39.08,
+"url": "/uploads/moma9_07ea7a594b.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:40.039Z",
+"updatedAt": "2024-02-28T17:36:40.039Z"
+}
+},
+{
+"id": 71,
+"attributes": {
+"name": "moma10.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 800,
+"height": 524,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_moma10.jpg",
+"hash": "thumbnail_moma10_e10d113318",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 238,
+"height": 156,
+"size": 9.27,
+"url": "/uploads/thumbnail_moma10_e10d113318.jpg"
+},
+"small": {
+"name": "small_moma10.jpg",
+"hash": "small_moma10_e10d113318",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 328,
+"size": 34.34,
+"url": "/uploads/small_moma10_e10d113318.jpg"
+},
+"medium": {
+"name": "medium_moma10.jpg",
+"hash": "medium_moma10_e10d113318",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 491,
+"size": 73.5,
+"url": "/uploads/medium_moma10_e10d113318.jpg"
+}
+},
+"hash": "moma10_e10d113318",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 85.34,
+"url": "/uploads/moma10_e10d113318.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:36:40.049Z",
+"updatedAt": "2024-02-28T17:36:40.049Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 2,
+"attributes": {
+"createdAt": "2024-02-28T17:39:30.102Z",
+"updatedAt": "2024-02-28T17:39:30.102Z",
+"publishedAt": "2024-02-28T18:29:39.655Z",
+"title": "Sunset Cinema",
+"description": "A extremely creative execution on branding for a film festival. ",
+"image": {
+"data": [
+{
+"id": 72,
+"attributes": {
+"name": "sun6.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 325,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_sun6.jpg",
+"hash": "thumbnail_sun6_449b52c3a6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 106,
+"size": 6.28,
+"url": "/uploads/thumbnail_sun6_449b52c3a6.jpg"
+},
+"small": {
+"name": "small_sun6.jpg",
+"hash": "small_sun6_449b52c3a6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 218,
+"size": 17.75,
+"url": "/uploads/small_sun6_449b52c3a6.jpg"
+}
+},
+"hash": "sun6_449b52c3a6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 33.06,
+"url": "/uploads/sun6_449b52c3a6.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:39:27.438Z",
+"updatedAt": "2024-02-28T17:39:27.438Z"
+}
+},
+{
+"id": 73,
+"attributes": {
+"name": "sun5.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 325,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_sun5.jpg",
+"hash": "thumbnail_sun5_6ce58e0f60",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 106,
+"size": 6.82,
+"url": "/uploads/thumbnail_sun5_6ce58e0f60.jpg"
+},
+"small": {
+"name": "small_sun5.jpg",
+"hash": "small_sun5_6ce58e0f60",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 218,
+"size": 23.34,
+"url": "/uploads/small_sun5_6ce58e0f60.jpg"
+}
+},
+"hash": "sun5_6ce58e0f60",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 47.65,
+"url": "/uploads/sun5_6ce58e0f60.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:39:27.441Z",
+"updatedAt": "2024-02-28T17:39:27.441Z"
+}
+},
+{
+"id": 74,
+"attributes": {
+"name": "sun4.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 497,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_sun4.jpg",
+"hash": "thumbnail_sun4_d1fc120c6e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 235,
+"height": 156,
+"size": 5.06,
+"url": "/uploads/thumbnail_sun4_d1fc120c6e.jpg"
+},
+"small": {
+"name": "small_sun4.jpg",
+"hash": "small_sun4_d1fc120c6e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 23.88,
+"url": "/uploads/small_sun4_d1fc120c6e.jpg"
+}
+},
+"hash": "sun4_d1fc120c6e",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 60.56,
+"url": "/uploads/sun4_d1fc120c6e.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:39:27.444Z",
+"updatedAt": "2024-02-28T17:39:27.444Z"
+}
+},
+{
+"id": 75,
+"attributes": {
+"name": "sun7.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 534,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_sun7.jpg",
+"hash": "thumbnail_sun7_d9e5e7c53b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 218,
+"height": 156,
+"size": 10.08,
+"url": "/uploads/thumbnail_sun7_d9e5e7c53b.jpg"
+},
+"small": {
+"name": "small_sun7.jpg",
+"hash": "small_sun7_d9e5e7c53b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 358,
+"size": 37.14,
+"url": "/uploads/small_sun7_d9e5e7c53b.jpg"
+}
+},
+"hash": "sun7_d9e5e7c53b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 68.27,
+"url": "/uploads/sun7_d9e5e7c53b.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:39:27.449Z",
+"updatedAt": "2024-02-28T17:39:27.449Z"
+}
+},
+{
+"id": 76,
+"attributes": {
+"name": "sun3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 497,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_sun3.jpg",
+"hash": "thumbnail_sun3_576d566661",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 235,
+"height": 156,
+"size": 14.4,
+"url": "/uploads/thumbnail_sun3_576d566661.jpg"
+},
+"small": {
+"name": "small_sun3.jpg",
+"hash": "small_sun3_576d566661",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 53.18,
+"url": "/uploads/small_sun3_576d566661.jpg"
+}
+},
+"hash": "sun3_576d566661",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 108.21,
+"url": "/uploads/sun3_576d566661.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T17:39:27.456Z",
+"updatedAt": "2024-02-28T17:39:27.456Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 3,
+"attributes": {
+"createdAt": "2024-02-28T18:40:49.742Z",
+"updatedAt": "2024-02-28T18:47:58.384Z",
+"publishedAt": "2024-02-28T18:40:51.883Z",
+"title": "Stussy",
+"description": "The last flash project I developed. The last flash project anybpdy developed. ",
+"image": {
+"data": [
+{
+"id": 78,
+"attributes": {
+"name": "Stussy_6.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_6.jpg",
+"hash": "thumbnail_Stussy_6_764013d7f5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 6.63,
+"url": "/uploads/thumbnail_Stussy_6_764013d7f5.jpg"
+},
+"medium": {
+"name": "medium_Stussy_6.jpg",
+"hash": "medium_Stussy_6_764013d7f5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 44.46,
+"url": "/uploads/medium_Stussy_6_764013d7f5.jpg"
+},
+"small": {
+"name": "small_Stussy_6.jpg",
+"hash": "small_Stussy_6_764013d7f5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 23.09,
+"url": "/uploads/small_Stussy_6_764013d7f5.jpg"
+},
+"large": {
+"name": "large_Stussy_6.jpg",
+"hash": "large_Stussy_6_764013d7f5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 68.77,
+"url": "/uploads/large_Stussy_6_764013d7f5.jpg"
+}
+},
+"hash": "Stussy_6_764013d7f5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 90.84,
+"url": "/uploads/Stussy_6_764013d7f5.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:44.967Z",
+"updatedAt": "2024-02-28T18:40:44.967Z"
+}
+},
+{
+"id": 79,
+"attributes": {
+"name": "Stussy_5.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_5.jpg",
+"hash": "thumbnail_Stussy_5_2fb1b40af6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 6.68,
+"url": "/uploads/thumbnail_Stussy_5_2fb1b40af6.jpg"
+},
+"medium": {
+"name": "medium_Stussy_5.jpg",
+"hash": "medium_Stussy_5_2fb1b40af6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 44.49,
+"url": "/uploads/medium_Stussy_5_2fb1b40af6.jpg"
+},
+"small": {
+"name": "small_Stussy_5.jpg",
+"hash": "small_Stussy_5_2fb1b40af6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 23.27,
+"url": "/uploads/small_Stussy_5_2fb1b40af6.jpg"
+},
+"large": {
+"name": "large_Stussy_5.jpg",
+"hash": "large_Stussy_5_2fb1b40af6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 68.83,
+"url": "/uploads/large_Stussy_5_2fb1b40af6.jpg"
+}
+},
+"hash": "Stussy_5_2fb1b40af6",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 91.19,
+"url": "/uploads/Stussy_5_2fb1b40af6.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:44.988Z",
+"updatedAt": "2024-02-28T18:40:44.988Z"
+}
+},
+{
+"id": 80,
+"attributes": {
+"name": "Stussy_3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_3.jpg",
+"hash": "thumbnail_Stussy_3_a69c6a8876",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 10.31,
+"url": "/uploads/thumbnail_Stussy_3_a69c6a8876.jpg"
+},
+"small": {
+"name": "small_Stussy_3.jpg",
+"hash": "small_Stussy_3_a69c6a8876",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 38.42,
+"url": "/uploads/small_Stussy_3_a69c6a8876.jpg"
+},
+"medium": {
+"name": "medium_Stussy_3.jpg",
+"hash": "medium_Stussy_3_a69c6a8876",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 75.2,
+"url": "/uploads/medium_Stussy_3_a69c6a8876.jpg"
+},
+"large": {
+"name": "large_Stussy_3.jpg",
+"hash": "large_Stussy_3_a69c6a8876",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 117.92,
+"url": "/uploads/large_Stussy_3_a69c6a8876.jpg"
+}
+},
+"hash": "Stussy_3_a69c6a8876",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 160.96,
+"url": "/uploads/Stussy_3_a69c6a8876.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.038Z",
+"updatedAt": "2024-02-28T18:40:45.038Z"
+}
+},
+{
+"id": 81,
+"attributes": {
+"name": "Stussy_4.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_4.jpg",
+"hash": "thumbnail_Stussy_4_4efbd18c53",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 11.03,
+"url": "/uploads/thumbnail_Stussy_4_4efbd18c53.jpg"
+},
+"small": {
+"name": "small_Stussy_4.jpg",
+"hash": "small_Stussy_4_4efbd18c53",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 42.57,
+"url": "/uploads/small_Stussy_4_4efbd18c53.jpg"
+},
+"medium": {
+"name": "medium_Stussy_4.jpg",
+"hash": "medium_Stussy_4_4efbd18c53",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 84.67,
+"url": "/uploads/medium_Stussy_4_4efbd18c53.jpg"
+},
+"large": {
+"name": "large_Stussy_4.jpg",
+"hash": "large_Stussy_4_4efbd18c53",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 132.46,
+"url": "/uploads/large_Stussy_4_4efbd18c53.jpg"
+}
+},
+"hash": "Stussy_4_4efbd18c53",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 181.53,
+"url": "/uploads/Stussy_4_4efbd18c53.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.041Z",
+"updatedAt": "2024-02-28T18:40:45.041Z"
+}
+},
+{
+"id": 82,
+"attributes": {
+"name": "Stussy_1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_1.jpg",
+"hash": "thumbnail_Stussy_1_676f01df56",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 17.79,
+"url": "/uploads/thumbnail_Stussy_1_676f01df56.jpg"
+},
+"small": {
+"name": "small_Stussy_1.jpg",
+"hash": "small_Stussy_1_676f01df56",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 69.82,
+"url": "/uploads/small_Stussy_1_676f01df56.jpg"
+},
+"medium": {
+"name": "medium_Stussy_1.jpg",
+"hash": "medium_Stussy_1_676f01df56",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 136.39,
+"url": "/uploads/medium_Stussy_1_676f01df56.jpg"
+},
+"large": {
+"name": "large_Stussy_1.jpg",
+"hash": "large_Stussy_1_676f01df56",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 211.36,
+"url": "/uploads/large_Stussy_1_676f01df56.jpg"
+}
+},
+"hash": "Stussy_1_676f01df56",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 275.07,
+"url": "/uploads/Stussy_1_676f01df56.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.087Z",
+"updatedAt": "2024-02-28T18:40:45.087Z"
+}
+},
+{
+"id": 83,
+"attributes": {
+"name": "Stussy_8.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_8.jpg",
+"hash": "thumbnail_Stussy_8_f4bb8f62cc",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 6.54,
+"url": "/uploads/thumbnail_Stussy_8_f4bb8f62cc.jpg"
+},
+"large": {
+"name": "large_Stussy_8.jpg",
+"hash": "large_Stussy_8_f4bb8f62cc",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 62.49,
+"url": "/uploads/large_Stussy_8_f4bb8f62cc.jpg"
+},
+"medium": {
+"name": "medium_Stussy_8.jpg",
+"hash": "medium_Stussy_8_f4bb8f62cc",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 39.71,
+"url": "/uploads/medium_Stussy_8_f4bb8f62cc.jpg"
+},
+"small": {
+"name": "small_Stussy_8.jpg",
+"hash": "small_Stussy_8_f4bb8f62cc",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 21.33,
+"url": "/uploads/small_Stussy_8_f4bb8f62cc.jpg"
+}
+},
+"hash": "Stussy_8_f4bb8f62cc",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 83.36,
+"url": "/uploads/Stussy_8_f4bb8f62cc.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.138Z",
+"updatedAt": "2024-02-28T18:40:45.138Z"
+}
+},
+{
+"id": 84,
+"attributes": {
+"name": "Stussy_7.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_7.jpg",
+"hash": "thumbnail_Stussy_7_88255a8696",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 6.45,
+"url": "/uploads/thumbnail_Stussy_7_88255a8696.jpg"
+},
+"large": {
+"name": "large_Stussy_7.jpg",
+"hash": "large_Stussy_7_88255a8696",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 61.93,
+"url": "/uploads/large_Stussy_7_88255a8696.jpg"
+},
+"medium": {
+"name": "medium_Stussy_7.jpg",
+"hash": "medium_Stussy_7_88255a8696",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 39.87,
+"url": "/uploads/medium_Stussy_7_88255a8696.jpg"
+},
+"small": {
+"name": "small_Stussy_7.jpg",
+"hash": "small_Stussy_7_88255a8696",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 21.36,
+"url": "/uploads/small_Stussy_7_88255a8696.jpg"
+}
+},
+"hash": "Stussy_7_88255a8696",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 85.35,
+"url": "/uploads/Stussy_7_88255a8696.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.161Z",
+"updatedAt": "2024-02-28T18:40:45.161Z"
+}
+},
+{
+"id": 85,
+"attributes": {
+"name": "Stussy_9.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_9.jpg",
+"hash": "thumbnail_Stussy_9_cede055a63",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 5.39,
+"url": "/uploads/thumbnail_Stussy_9_cede055a63.jpg"
+},
+"medium": {
+"name": "medium_Stussy_9.jpg",
+"hash": "medium_Stussy_9_cede055a63",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 42.86,
+"url": "/uploads/medium_Stussy_9_cede055a63.jpg"
+},
+"small": {
+"name": "small_Stussy_9.jpg",
+"hash": "small_Stussy_9_cede055a63",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 19.89,
+"url": "/uploads/small_Stussy_9_cede055a63.jpg"
+},
+"large": {
+"name": "large_Stussy_9.jpg",
+"hash": "large_Stussy_9_cede055a63",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 73.45,
+"url": "/uploads/large_Stussy_9_cede055a63.jpg"
+}
+},
+"hash": "Stussy_9_cede055a63",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 101.03,
+"url": "/uploads/Stussy_9_cede055a63.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.194Z",
+"updatedAt": "2024-02-28T18:40:45.194Z"
+}
+},
+{
+"id": 86,
+"attributes": {
+"name": "Stussy_10.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_10.jpg",
+"hash": "thumbnail_Stussy_10_f5bfd1d936",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 8.22,
+"url": "/uploads/thumbnail_Stussy_10_f5bfd1d936.jpg"
+},
+"medium": {
+"name": "medium_Stussy_10.jpg",
+"hash": "medium_Stussy_10_f5bfd1d936",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 56.53,
+"url": "/uploads/medium_Stussy_10_f5bfd1d936.jpg"
+},
+"small": {
+"name": "small_Stussy_10.jpg",
+"hash": "small_Stussy_10_f5bfd1d936",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 28.96,
+"url": "/uploads/small_Stussy_10_f5bfd1d936.jpg"
+},
+"large": {
+"name": "large_Stussy_10.jpg",
+"hash": "large_Stussy_10_f5bfd1d936",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 88.78,
+"url": "/uploads/large_Stussy_10_f5bfd1d936.jpg"
+}
+},
+"hash": "Stussy_10_f5bfd1d936",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 118.37,
+"url": "/uploads/Stussy_10_f5bfd1d936.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.200Z",
+"updatedAt": "2024-02-28T18:40:45.200Z"
+}
+},
+{
+"id": 87,
+"attributes": {
+"name": "Stussy_11.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1200,
+"height": 800,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_Stussy_11.jpg",
+"hash": "thumbnail_Stussy_11_3e9cc193a5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 8.1,
+"url": "/uploads/thumbnail_Stussy_11_3e9cc193a5.jpg"
+},
+"medium": {
+"name": "medium_Stussy_11.jpg",
+"hash": "medium_Stussy_11_3e9cc193a5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 500,
+"size": 56.99,
+"url": "/uploads/medium_Stussy_11_3e9cc193a5.jpg"
+},
+"large": {
+"name": "large_Stussy_11.jpg",
+"hash": "large_Stussy_11_3e9cc193a5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 667,
+"size": 90.38,
+"url": "/uploads/large_Stussy_11_3e9cc193a5.jpg"
+},
+"small": {
+"name": "small_Stussy_11.jpg",
+"hash": "small_Stussy_11_3e9cc193a5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 333,
+"size": 30.03,
+"url": "/uploads/small_Stussy_11_3e9cc193a5.jpg"
+}
+},
+"hash": "Stussy_11_3e9cc193a5",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 122.37,
+"url": "/uploads/Stussy_11_3e9cc193a5.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:40:45.211Z",
+"updatedAt": "2024-02-28T18:40:45.211Z"
+}
+}
+]
+}
+}
+},
+{
+"id": 4,
+"attributes": {
+"createdAt": "2024-02-28T18:43:19.399Z",
+"updatedAt": "2024-02-28T18:43:20.869Z",
+"publishedAt": "2024-02-28T18:43:20.868Z",
+"title": "Nike FuelBand",
+"description": "We created and managed a large content team running events and editorial content for Nilke FueBand. Over 60 events in over the summer. ",
+"image": {
+"data": [
+{
+"id": 89,
+"attributes": {
+"name": "2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1920,
+"height": 1080,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_2.jpg",
+"hash": "thumbnail_2_b76dade2ba",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 138,
+"size": 9.95,
+"url": "/uploads/thumbnail_2_b76dade2ba.jpg"
+},
+"small": {
+"name": "small_2.jpg",
+"hash": "small_2_b76dade2ba",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 281,
+"size": 36.43,
+"url": "/uploads/small_2_b76dade2ba.jpg"
+},
+"medium": {
+"name": "medium_2.jpg",
+"hash": "medium_2_b76dade2ba",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 422,
+"size": 81.15,
+"url": "/uploads/medium_2_b76dade2ba.jpg"
+},
+"large": {
+"name": "large_2.jpg",
+"hash": "large_2_b76dade2ba",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 563,
+"size": 142.37,
+"url": "/uploads/large_2_b76dade2ba.jpg"
+}
+},
+"hash": "2_b76dade2ba",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 460,
+"url": "/uploads/2_b76dade2ba.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:43:13.804Z",
+"updatedAt": "2024-02-28T18:43:13.804Z"
+}
+},
+{
+"id": 88,
+"attributes": {
+"name": "3.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1920,
+"height": 968,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_3.jpg",
+"hash": "thumbnail_3_045217bf05",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 124,
+"size": 5.73,
+"url": "/uploads/thumbnail_3_045217bf05.jpg"
+},
+"medium": {
+"name": "medium_3.jpg",
+"hash": "medium_3_045217bf05",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 378,
+"size": 40.17,
+"url": "/uploads/medium_3_045217bf05.jpg"
+},
+"small": {
+"name": "small_3.jpg",
+"hash": "small_3_045217bf05",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 252,
+"size": 19.5,
+"url": "/uploads/small_3_045217bf05.jpg"
+},
+"large": {
+"name": "large_3.jpg",
+"hash": "large_3_045217bf05",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 504,
+"size": 66.78,
+"url": "/uploads/large_3_045217bf05.jpg"
+}
+},
+"hash": "3_045217bf05",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 203.33,
+"url": "/uploads/3_045217bf05.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:43:13.759Z",
+"updatedAt": "2024-02-28T18:43:13.759Z"
+}
+},
+{
+"id": 90,
+"attributes": {
+"name": "1.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 2499,
+"height": 1404,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_cdecec24ee",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 245,
+"height": 137,
+"size": 8.61,
+"url": "/uploads/thumbnail_1_cdecec24ee.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_cdecec24ee",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 281,
+"size": 26.07,
+"url": "/uploads/small_1_cdecec24ee.jpg"
+},
+"medium": {
+"name": "medium_1.jpg",
+"hash": "medium_1_cdecec24ee",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 422,
+"size": 48.88,
+"url": "/uploads/medium_1_cdecec24ee.jpg"
+},
+"large": {
+"name": "large_1.jpg",
+"hash": "large_1_cdecec24ee",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 562,
+"size": 78.96,
+"url": "/uploads/large_1_cdecec24ee.jpg"
+}
+},
+"hash": "1_cdecec24ee",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 451.7,
+"url": "/uploads/1_cdecec24ee.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-28T18:43:13.862Z",
+"updatedAt": "2024-02-28T18:43:13.862Z"
+}
+}
+]
+}
+}
+}
+],
+"meta": {
+"pagination": {
+"page": 1,
+"pageSize": 25,
+"pageCount": 1,
+"total": 4
+}
+}
+}
