@@ -10,7 +10,7 @@
 </script>
 
 <div class="container mx-auto">
-    <div class="grid gap-4 md:grid-cols-1 lg:grid-cols-2">
+    <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-2">
         <div>
             <!-- Content for first column -->
             <div class="w-full">
@@ -38,23 +38,15 @@
         <div>
             <!-- Content for second column -->
 
-            <div class="tile col-span-8">
+            <div class="tile col-span-12">
                 {#if currentProject.attributes.specialsauce}
-                    <div class="mx-8 mb-8 w-full">
-                        <iframe
-                            class="mb-8 aspect-video w-full"
-                            src="https://www.youtube.com/embed/pkqYRPCBCDM"
-                            title="Nike Free Plus 2 -  Halftone Video"
-                            frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                            allowfullscreen
-                        ></iframe>
+                    <div class="mx-0 mb-8 w-full">
                         {@html currentProject.attributes.specialsauce}
                     </div>
                 {/if}
 
                 {#each currentProject.attributes.projectImages.data as projectImage, i}
-                    <div class="mx-8">
+                    <div>
                         <img
                             class="w-full pb-4"
                             src={projectImage.attributes.url}

@@ -60,10 +60,10 @@
                 >
                     <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
                     <!-- <a href="./bio.php"  id="bio">Biography</a> <span class="slash">/</span> -->
-                    <a href="/" id="resume">CV RESUME</a>
-                    <span class="slash"></span>
+                    <!-- <a href="/" id="resume">CV RESUME</a>
+                    <span class="slash"></span> -->
                     <!-- <a href="resume.php"  id="resume">BOARD CAM [ <span class="liveRed">LIVE </span> ]</a> <span class="slash">/</span>-->
-                    <br />
+                    <!-- <br /> -->
 
                     <span class="font-bold">CASE STUDIES</span>
 
@@ -131,23 +131,6 @@
                     />
 
                     <br />
-                    <span class="font-bold">SELECTED KQED PROJECTS</span>
-                    <NavLink
-                        href="/projects/kqed-articles"
-                        title="Article Template"
-                        on:navigate={handleNavigate}
-                    />
-                    <NavLink
-                        href="/projects/kqed-lp"
-                        title="Election Dashoards"
-                        on:navigate={handleNavigate}
-                    />
-
-                    <NavLink
-                        href="/projects/kqed-arts-app"
-                        title="Arts App"
-                        on:navigate={handleNavigate}
-                    />
                 </div>
             </div>
             <!-- <div class="font-bold">Logo</div>
