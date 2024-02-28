@@ -13,7 +13,7 @@
 <div class="container m-auto w-3/4">
     <Splide aria-label="My Favorite Images" imageData={slideshowImages}>
         <SplideSlide>
-            <img src="/aleph/peaceout.jpg" alt="collage" class="draggable" />
+            <img src="/art/2.jpg" alt="collage" class="draggable max-w-96" />
         </SplideSlide>
     </Splide>
 </div>

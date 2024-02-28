@@ -66,12 +66,18 @@
 </div>
 
 <style>
+    @font-face {
+        font-family: "Geist-Medium";
+
+        src: url("/fonts/Geist/Geist-Medium.woff2") format("woff2");
+    }
+
     h1,
     h2,
     h3,
     h4,
     h5,
     h6 {
-        font-family: "Helvetica Neue", HelveticaNeue, "Inter", sans-serif;
+        font-family: "Geist-Medium", serif, HelveticaNeue, "Inter", sans-serif;
     }
 </style>

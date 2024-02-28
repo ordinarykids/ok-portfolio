@@ -54,7 +54,7 @@
 "provider": "local",
 "provider_metadata": null,
 "createdAt": "2023-09-18T04:31:59.413Z",
-"updatedAt": "2023-09-18T04:31:59.413Z"
+"updatedAt": "2024-02-28T04:47:26.396Z"
 }
 }
 },
@@ -277,7 +277,7 @@
 "provider": "local",
 "provider_metadata": null,
 "createdAt": "2023-09-18T04:31:59.413Z",
-"updatedAt": "2023-09-18T04:31:59.413Z"
+"updatedAt": "2024-02-28T04:47:26.396Z"
 }
 },
 {
@@ -618,10 +618,10 @@
 "title": "Undertrained StyleGAN",
 "date": null,
 "createdAt": "2023-09-23T01:39:23.579Z",
-"updatedAt": "2024-02-27T00:30:43.931Z",
+"updatedAt": "2024-02-28T04:47:57.785Z",
 "publishedAt": "2023-09-23T01:39:45.188Z",
 "slug": "style-gan2",
-"longdescription": "For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. ",
+"longdescription": "For me Generative AI to produce images was never about producing realistic images. It was about discovering asd",
 "shortdescription": "For me Generative AI to produce images was never about producing realistic images. It was about discovering new aesthetics. ",
 "specialsauce": "<iframe class=\"aspect-video w-full\" src=\"https://www.youtube.com/embed/-meMH12LcQA\" title=\"Portrait Series - &quot;Dina&quot; 003\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>",
 "featuredImage": {
@@ -693,7 +693,118 @@
 }
 },
 "projectImages": {
-"data": null
+"data": [
+{
+"id": 59,
+"attributes": {
+"name": "blush2.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 1600,
+"height": 1600,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_blush2.jpg",
+"hash": "thumbnail_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 156,
+"height": 156,
+"size": 5.75,
+"url": "/uploads/thumbnail_blush2_1c5cf611ce.jpg"
+},
+"small": {
+"name": "small_blush2.jpg",
+"hash": "small_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 500,
+"size": 49.97,
+"url": "/uploads/small_blush2_1c5cf611ce.jpg"
+},
+"medium": {
+"name": "medium_blush2.jpg",
+"hash": "medium_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 750,
+"height": 750,
+"size": 101.73,
+"url": "/uploads/medium_blush2_1c5cf611ce.jpg"
+},
+"large": {
+"name": "large_blush2.jpg",
+"hash": "large_blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 1000,
+"height": 1000,
+"size": 161.27,
+"url": "/uploads/large_blush2_1c5cf611ce.jpg"
+}
+},
+"hash": "blush2_1c5cf611ce",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 333.38,
+"url": "/uploads/blush2_1c5cf611ce.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2024-02-26T19:50:12.413Z",
+"updatedAt": "2024-02-28T04:46:01.060Z"
+}
+},
+{
+"id": 1,
+"attributes": {
+"name": "cologne5.jpg",
+"alternativeText": null,
+"caption": null,
+"width": 746,
+"height": 499,
+"formats": {
+"thumbnail": {
+"name": "thumbnail_cologne5.jpg",
+"hash": "thumbnail_cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 234,
+"height": 156,
+"size": 9.18,
+"url": "/uploads/thumbnail_cologne5_fa5770a227.jpg"
+},
+"small": {
+"name": "small_cologne5.jpg",
+"hash": "small_cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 334,
+"size": 45.34,
+"url": "/uploads/small_cologne5_fa5770a227.jpg"
+}
+},
+"hash": "cologne5_fa5770a227",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 102.31,
+"url": "/uploads/cologne5_fa5770a227.jpg",
+"previewUrl": null,
+"provider": "local",
+"provider_metadata": null,
+"createdAt": "2023-09-18T04:31:59.413Z",
+"updatedAt": "2024-02-28T04:47:26.396Z"
+}
+}
+]
 }
 }
 },
@@ -3201,7 +3312,7 @@
 "provider": "local",
 "provider_metadata": null,
 "createdAt": "2024-02-26T19:50:12.413Z",
-"updatedAt": "2024-02-26T19:50:12.413Z"
+"updatedAt": "2024-02-28T04:46:01.060Z"
 }
 },
 {
