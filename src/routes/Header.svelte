@@ -38,6 +38,7 @@
 
     function reloadPage() {
         console.log(window.location);
+        window.location.href = "/randoms/";
         window.location.reload();
     }
 </script>
@@ -135,7 +136,7 @@
                         on:navigate={handleNavigate}
                     />
                 </div>
-
+                <a href="/randoms/">Randoms</a>
                 <div><button on:click={reloadPage}>Reload Page</button></div>
             </div>
             <!-- <div class="font-bold">Logo</div>

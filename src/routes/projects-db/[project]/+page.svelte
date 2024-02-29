@@ -9,7 +9,7 @@
     );
 </script>
 
-<div class="container mx-auto">
+<div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
         <div>
             <!-- Content for first column -->

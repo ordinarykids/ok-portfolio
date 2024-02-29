@@ -17,7 +17,7 @@
     }
 </script>
 
-<select bind:value={selected} on:change={handleSelectChange}>
+<!-- <select bind:value={selected} on:change={handleSelectChange}>
     {#each options as option}
         <option value={option.value}>
             {option.label}
@@ -26,4 +26,5 @@
 </select>
 <div class="container m-auto w-3/4">
     <slot />
-</div>
+</div> -->
+<slot />

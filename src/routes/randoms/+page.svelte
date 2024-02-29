@@ -15,7 +15,7 @@
 
 <div>{currentProject.attributes.title}</div>
 
-<div class="container mx-auto">
+<div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
         <div>
             <!-- Content for first column -->
@@ -33,7 +33,12 @@
                 </h1>
 
                 <div class="underLine"></div>
-                <h2>Info</h2>
+                {#if currentProject.attributes.description}
+                    <h2>INFO</h2>
+                    <div class="mx-0 mb-8 w-full">
+                        {@html currentProject.attributes.description}
+                    </div>
+                {/if}
             </div>
         </div>
         <div>
