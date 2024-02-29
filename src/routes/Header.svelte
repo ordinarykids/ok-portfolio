@@ -89,8 +89,13 @@
                         on:navigate={handleNavigate}
                     />
                     <NavLink
-                        href="/projects-db/nike-free"
-                        title="Nike Free"
+                        href="/projects-db/kqed"
+                        title="KQED"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects-db/aleph-rebrand"
+                        title="Aleph Rebrand"
                         on:navigate={handleNavigate}
                     />
                     <br />
@@ -118,25 +123,8 @@
                     />
 
                     <br />
-                    <span class="font-bold">RECENT WORK</span>
-                    <NavLink
-                        href="/projects/aleph"
-                        title="Aleph Rebrand"
-                        on:navigate={handleNavigate}
-                    />
-                    <NavLink
-                        href="/projects/helix"
-                        title="Helix"
-                        on:navigate={handleNavigate}
-                    />
-
-                    <NavLink
-                        href="/projects/kodiak"
-                        title="Kodiak"
-                        on:navigate={handleNavigate}
-                    />
                 </div>
-                <a href="/randoms/">Randoms</a>
+                <a href="/randoms/">A Random Old Project</a>
                 <div><button on:click={reloadPage}>Reload Page</button></div>
             </div>
             <!-- <div class="font-bold">Logo</div>

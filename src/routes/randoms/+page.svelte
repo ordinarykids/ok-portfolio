@@ -13,8 +13,6 @@
     console.log(currentProject);
 </script>
 
-<div>{currentProject.attributes.title}</div>
-
 <div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
         <div>
