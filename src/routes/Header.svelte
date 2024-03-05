@@ -74,11 +74,6 @@
                     <span class="font-bold">CASE STUDIES</span>
 
                     <NavLink
-                        href="/projects-db/helix"
-                        title="Helix"
-                        on:navigate={handleNavigate}
-                    />
-                    <NavLink
                         href="/projects-db/nike-free"
                         title="Nike Free"
                         on:navigate={handleNavigate}
@@ -91,6 +86,11 @@
                     <NavLink
                         href="/projects-db/kqed"
                         title="KQED"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/projects-db/helix"
+                        title="Helix"
                         on:navigate={handleNavigate}
                     />
                     <NavLink

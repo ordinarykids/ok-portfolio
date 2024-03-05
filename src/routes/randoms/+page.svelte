@@ -15,10 +15,11 @@
 
 <div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
-        <div>
-            <!-- Content for first column -->
-            <div class="w-full">
-                <!-- <p>
+        {#if currentProject}
+            <div>
+                <!-- Content for first column -->
+                <div class="w-full">
+                    <!-- <p>
                     <img
                         class="w-full"
                         alt="feature project image "
@@ -26,46 +27,47 @@
                             .attributes.url}
                     />
                 </p> -->
-                <h1 class="py-4 text-6xl font-black">
-                    {currentProject.attributes.title}
-                </h1>
+                    <h1 class="py-4 text-6xl font-black">
+                        {currentProject.attributes.title}
+                    </h1>
 
-                <div class="underLine"></div>
-                {#if currentProject.attributes.description}
-                    <h2>INFO</h2>
-                    <div class="mx-0 mb-8 w-full">
-                        {@html currentProject.attributes.description}
-                    </div>
-                {/if}
+                    <div class="underLine"></div>
+                    {#if currentProject.attributes.description}
+                        <h2>INFO</h2>
+                        <div class="mx-0 mb-8 w-full">
+                            {@html currentProject.attributes.description}
+                        </div>
+                    {/if}
+                </div>
             </div>
-        </div>
-        <div>
-            <!-- Content for second column -->
+            <div>
+                <!-- Content for second column -->
 
-            <div class="tile col-span-12">
-                <!-- {#if currentProject.attributes.specialsauce}
+                <div class="tile col-span-12">
+                    <!-- {#if currentProject.attributes.specialsauce}
                     <div class="mx-0 mb-8 w-full">
                         {@html currentProject.attributes.specialsauce}
                     </div>
                 {/if} -->
 
-                {#each currentProject.attributes.image.data as projectImage, i}
-                    <div>
-                        <img
-                            class="w-full pb-4"
-                            src={projectImage.attributes.url}
-                            alt="portilio images"
-                        />
+                    {#each currentProject.attributes.image.data as projectImage, i}
+                        <div>
+                            <img
+                                class="w-full pb-4"
+                                src={projectImage.attributes.url}
+                                alt="portilio images"
+                            />
 
-                        {#if projectImage.attributes.caption}
-                            <p class="mb-8 w-full p-4">
-                                {projectImage.attributes.caption}
-                            </p>
-                        {/if}
-                    </div>
-                {/each}
+                            {#if projectImage.attributes.caption}
+                                <p class="mb-8 w-full p-4">
+                                    {projectImage.attributes.caption}
+                                </p>
+                            {/if}
+                        </div>
+                    {/each}
+                </div>
             </div>
-        </div>
+        {/if}
     </div>
 </div>
 

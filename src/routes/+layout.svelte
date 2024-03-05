@@ -2,7 +2,7 @@
     import Header from "./Header.svelte";
     import Footer from "./Footer.svelte";
 
-    import { navigating } from "$app/stores";
+    // import { navigating } from "$app/stores";
     import { onMount } from "svelte";
     import "@fontsource/lekton";
     import "@fontsource/ibm-plex-mono/200-italic.css";
@@ -11,26 +11,17 @@
     import "../app.css";
     import { fade, fly } from "svelte/transition";
     import { cubicIn, cubicOut } from "svelte/easing";
+    // export let data;
+
+    import PageTransition from "../lib/transition.svelte";
+
     export let data;
-
-    let animate = !$navigating;
-    let loaded = false;
-
-    onMount(() => (loaded = true));
 </script>
 
 <Header />
-
-{#if animate}
-    {#if loaded}
-        <div in:fade={{ delay: 500, duration: 500 }} class="contents">
-            <slot />
-        </div>
-    {/if}
-{:else}
+<!-- <PageTransition key={data.url} duration={2000}>
     <slot />
-{/if}
-
+</PageTransition> -->
 <!-- {#key data.pathname}
     <div
         in:fly={{ easing: cubicOut, y: 10, duration: 300, delay: 400 }}
@@ -42,8 +33,8 @@
     </div>
 {/key} -->
 
-<!-- <div class="container m-auto ">
-  <slot />
-</div> -->
+<div class="container m-auto">
+    <slot />
+</div>
 
 <!-- <Footer /> -->

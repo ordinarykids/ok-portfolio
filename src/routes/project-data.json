@@ -1362,7 +1362,7 @@
 "title": "Tracy Chapman",
 "date": null,
 "createdAt": "2024-02-26T18:31:30.255Z",
-"updatedAt": "2024-02-26T23:13:56.728Z",
+"updatedAt": "2024-02-29T21:16:35.007Z",
 "publishedAt": "2024-02-26T18:31:30.901Z",
 "slug": "tracy-chapman",
 "longdescription": "<p>When I got the email from Tracy Chapman's agent, I was a little caught off gaurd. I was suprised and excited but also thought the design directions we had been taking at OrdinaryKids may be too far out there. As always, I was rady to jump on a plane and head down. </p>\n\n<p>Tracy met with my in her studio. We breifly chatted about project details but quickly start discussing her vision for the album, and her personal brand. It was the next meeting that would become a center piece of my creative outout that year. Not only did we all connect at my studio in the Dogpatch, we also really jelled on a idea that was just a sketch. </p>\n\n<p>The idea was simple. Let;s let the user color in a animatied coloring book while it was playing. People could image \"Our Bright Future\" as a positive one or a cynical one. It still works well today. When I got the email from Tracy Chapman's agent, I was a little caught off gaurd. I was suprised and excited but also thought the design directions we had been taking at OrdinaryKids may be too far out there. As always, I was rady to jump on a plane and head down. </p>\n\n<p>Tracy met with my in her studio. We breifly chatted about project details but quickly start discussing her vision for the album, and her personal brand. It was the next meeting that would become a center piece of my creative outout that year. Not only did we all connect at my studio in the Dogpatch, we also really jelled on a idea that was just a sketch. </p>\n\n<p>The idea was simple. Let;s let the user color in a animatied coloring book while it was playing. People could image \"Our Bright Future\" as a positive one or a cynical one. It still works well today. When I got the email from Tracy Chapman's agent, I was a little caught off gaurd. I was suprised and excited but also thought the design directions we had been taking at OrdinaryKids may be too far out there. As always, I was rady to jump on a plane and head down. </p>\n\n",
@@ -1370,69 +1370,69 @@
 "specialsauce": null,
 "featuredImage": {
 "data": {
-"id": 44,
+"id": 33,
 "attributes": {
-"name": "Picture 25.png",
+"name": "1.jpg",
 "alternativeText": null,
 "caption": null,
-"width": 1337,
-"height": 955,
+"width": 1183,
+"height": 710,
 "formats": {
 "thumbnail": {
-"name": "thumbnail_Picture 25.png",
-"hash": "thumbnail_Picture_25_240a8128b3",
-"ext": ".png",
-"mime": "image/png",
+"name": "thumbnail_1.jpg",
+"hash": "thumbnail_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
 "path": null,
-"width": 218,
-"height": 156,
-"size": 44.48,
-"url": "/uploads/thumbnail_Picture_25_240a8128b3.png"
-},
-"small": {
-"name": "small_Picture 25.png",
-"hash": "small_Picture_25_240a8128b3",
-"ext": ".png",
-"mime": "image/png",
-"path": null,
-"width": 500,
-"height": 357,
-"size": 154.5,
-"url": "/uploads/small_Picture_25_240a8128b3.png"
+"width": 245,
+"height": 147,
+"size": 8.78,
+"url": "/uploads/thumbnail_1_b09b7e996b.jpg"
 },
 "medium": {
-"name": "medium_Picture 25.png",
-"hash": "medium_Picture_25_240a8128b3",
-"ext": ".png",
-"mime": "image/png",
+"name": "medium_1.jpg",
+"hash": "medium_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
 "path": null,
 "width": 750,
-"height": 536,
-"size": 279.98,
-"url": "/uploads/medium_Picture_25_240a8128b3.png"
+"height": 450,
+"size": 59.17,
+"url": "/uploads/medium_1_b09b7e996b.jpg"
+},
+"small": {
+"name": "small_1.jpg",
+"hash": "small_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"path": null,
+"width": 500,
+"height": 300,
+"size": 29.87,
+"url": "/uploads/small_1_b09b7e996b.jpg"
 },
 "large": {
-"name": "large_Picture 25.png",
-"hash": "large_Picture_25_240a8128b3",
-"ext": ".png",
-"mime": "image/png",
+"name": "large_1.jpg",
+"hash": "large_1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
 "path": null,
 "width": 1000,
-"height": 714,
-"size": 425.88,
-"url": "/uploads/large_Picture_25_240a8128b3.png"
+"height": 600,
+"size": 93.86,
+"url": "/uploads/large_1_b09b7e996b.jpg"
 }
 },
-"hash": "Picture_25_240a8128b3",
-"ext": ".png",
-"mime": "image/png",
-"size": 125.3,
-"url": "/uploads/Picture_25_240a8128b3.png",
+"hash": "1_b09b7e996b",
+"ext": ".jpg",
+"mime": "image/jpeg",
+"size": 120.13,
+"url": "/uploads/1_b09b7e996b.jpg",
 "previewUrl": null,
 "provider": "local",
 "provider_metadata": null,
-"createdAt": "2024-02-26T18:31:18.345Z",
-"updatedAt": "2024-02-26T18:31:25.855Z"
+"createdAt": "2024-02-26T18:31:17.672Z",
+"updatedAt": "2024-02-29T21:16:10.319Z"
 }
 }
 },
@@ -1501,7 +1501,7 @@
 "provider": "local",
 "provider_metadata": null,
 "createdAt": "2024-02-26T18:31:17.672Z",
-"updatedAt": "2024-02-26T18:31:17.672Z"
+"updatedAt": "2024-02-29T21:16:10.319Z"
 }
 },
 {
