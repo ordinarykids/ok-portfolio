@@ -6,7 +6,7 @@
     import { Splide, SplideSlide } from "@splidejs/svelte-splide";
     // or only core styles
     import "@splidejs/svelte-splide/css";
-    import Wiper from "../../lib/wiper.svelte";
+    // import Wiper from "../lib/wiper.svelte";
 
     export async function get() {
         return {

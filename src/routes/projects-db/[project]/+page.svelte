@@ -1,7 +1,7 @@
 <script>
     import { page } from "$app/stores";
     import { onMount } from "svelte";
-    import { Wiper } from "../../../lib/wiper.svelte";
+    // import { Wiper } from "../../lib/wiper.svelte";
     import projects from "../../project-data.json";
     export let data;
 
@@ -10,11 +10,6 @@
     );
 </script>
 
-<Wiper
-    src="/path/to/image.jpg"
-    text="This is descriptive text"
-    wipeDirection="right"
-/>
 <div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
         <div>
