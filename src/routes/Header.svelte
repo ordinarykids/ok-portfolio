@@ -131,6 +131,11 @@
                         title="TouchDesigner Experiments"
                         on:navigate={handleNavigate}
                     />
+                    <NavLink
+                        href="/notes/26"
+                        title="Moires 01"
+                        on:navigate={handleNavigate}
+                    />
                     <!-- <NavLink
                         href="/projects-db/mercurius"
                         title="Mercurius Beer"
