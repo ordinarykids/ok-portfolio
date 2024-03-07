@@ -1,6 +1,6 @@
 <script>
     // import Conversation from "./Conversation.svelte";
-    import { openai } from "./openai";
+    //import { openai } from "./openai";
 
     let conversation = [];
     let initialResponse = " ";

@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     import Agent from "./Agent.svelte";
 
     export let conversation;
@@ -8,4 +8,4 @@
     {#each conversation as message}
         <Agent name={message.agent} text={message.text} />
     {/each}
-</div>
+</div> -->
