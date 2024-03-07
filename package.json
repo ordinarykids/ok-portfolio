@@ -38,6 +38,7 @@
     "npm": "^10.4.0",
     "openai": "^4.28.0",
     "svelte-scrollto": "^0.2.0",
-    "svelte-youtube-embed": "^0.2.3"
+    "svelte-youtube-embed": "^0.2.3",
+    "three": "^0.162.0"
   }
 }

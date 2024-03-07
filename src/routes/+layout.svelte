@@ -22,7 +22,7 @@
 <!-- <PageTransition key={data.url} duration={2000}>
     <slot />
 </PageTransition> -->
-<!-- {#key data.pathname}
+{#key data.pathname}
     <div
         in:fly={{ easing: cubicOut, y: 10, duration: 300, delay: 400 }}
         out:fly={{ easing: cubicIn, y: -10, duration: 300 }}
@@ -31,10 +31,10 @@
             <slot />
         </div>
     </div>
-{/key} -->
+{/key}
 
-<div class="container m-auto">
+<!-- <div class="container m-auto">
     <slot />
-</div>
+</div> -->
 
 <!-- <Footer /> -->

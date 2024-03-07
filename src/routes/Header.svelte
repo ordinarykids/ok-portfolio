@@ -45,7 +45,7 @@
 
 <div class="container mx-auto px-4">
     <nav
-        class={` left-0 top-0 z-10 m-auto  flex w-full max-w-screen-lg  items-center justify-between px-4 transition-all  duration-300`}
+        class={` left-0 top-0 z-10 m-auto  flex w-full max-w-screen-lg  items-center justify-between px-0 transition-all  duration-300`}
         on:mouseenter={handleHover}
         on:mouseleave={handleLeave}
     >
@@ -60,9 +60,7 @@
                 } z-10  overflow-hidden `}
             > -->
                 <div
-                    class={` transition-all duration-300 ${
-                        isHovered ? "h-16" : "h-16"
-                    } z-10  overflow-hidden `}
+                    class={` z-10 overflow-hidden  transition-all  duration-300 `}
                 >
                     <!-- 	<a href="/blog/"  id="bio">Blog</a> <span class="slash">/</span> -->
                     <!-- <a href="./bio.php"  id="bio">Biography</a> <span class="slash">/</span> -->
@@ -71,7 +69,7 @@
                     <!-- <a href="resume.php"  id="resume">BOARD CAM [ <span class="liveRed">LIVE </span> ]</a> <span class="slash">/</span>-->
                     <!-- <br /> -->
 
-                    <span class="font-bold">CASE STUDIES</span>
+                    <span class="w-32 font-bold">SELECTED PROJECTS</span>
 
                     <NavLink
                         href="/projects-db/nike-free"
@@ -98,19 +96,42 @@
                         title="Aleph Rebrand"
                         on:navigate={handleNavigate}
                     />
-                    <br />
-                    <span class="font-bold">EXPERIMENTS</span>
                     <NavLink
-                        href="/projects-db/style-gan2"
+                        href="/randoms/"
+                        title="Random Projects"
+                        on:navigate={handleNavigate}
+                    />
+                    <br />
+                    <span class=" font-bold">EXPERIMENTATIONS&nbsp;</span>
+
+                    <NavLink
+                        href="/notes/23"
                         title="Early Covid GANs"
                         on:navigate={handleNavigate}
                     />
+                    <NavLink
+                        href="/notes/21"
+                        title="Claude Self Portrait #1"
+                        on:navigate={handleNavigate}
+                    />
+                    <NavLink
+                        href="/notes/22"
+                        title="Claude Self Portrait #2"
+                        on:navigate={handleNavigate}
+                    />
+
                     <NavLink
                         href="/projects/surrealist-dreams"
                         title="Surrealist Dreams"
                         on:navigate={handleNavigate}
                     />
+
                     <NavLink
+                        href="/notes/25"
+                        title="TouchDesigner Experiments"
+                        on:navigate={handleNavigate}
+                    />
+                    <!-- <NavLink
                         href="/projects-db/mercurius"
                         title="Mercurius Beer"
                         on:navigate={handleNavigate}
@@ -120,12 +141,10 @@
                         href="/projects/kodiak"
                         title="Kodiak"
                         on:navigate={handleNavigate}
-                    />
+                    /> -->
 
                     <br />
                 </div>
-                <a href="/randoms/">A Random Old Project</a>
-                <div><button on:click={reloadPage}>Reload Page</button></div>
             </div>
             <!-- <div class="font-bold">Logo</div>
     <ul class="flex space-x-4">

@@ -3,18 +3,24 @@
     import { onMount } from "svelte";
     import projects from "../randoms-data.json";
     export let data;
+    let currentProject = "";
 
     onMount(() => {
         console.log("the component has mounted");
+        $: currentProject =
+            projects.data[Math.floor(Math.random() * projects.data.length)];
     });
-
-    $: currentProject =
-        projects.data[Math.floor(Math.random() * projects.data.length)];
-    console.log(currentProject);
+    function reloadPage() {
+        console.log(window.location);
+        window.location.href = "/randoms/";
+        window.location.reload();
+    }
+    //  console.log(currentProject);
 </script>
 
 <div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
+        <div><button on:click={reloadPage}>Load Random Project</button></div>
         {#if currentProject}
             <div>
                 <!-- Content for first column -->
