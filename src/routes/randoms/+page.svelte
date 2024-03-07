@@ -20,7 +20,12 @@
 
 <div class="container mx-auto max-w-screen-lg">
     <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
-        <div><button on:click={reloadPage}>Load Random Project</button></div>
+        <div>
+            <button
+                class="bg-slate-300 p-4 hover:bg-sky-100"
+                on:click={reloadPage}>Load Random Project</button
+            >
+        </div>
         {#if currentProject}
             <div>
                 <!-- Content for first column -->
