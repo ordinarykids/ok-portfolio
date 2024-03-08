@@ -1,78 +1,50 @@
-<h1 class="bg-red-200">GAN vidoes</h1>
-
-<!-- <script>
-    import { page } from "$app/stores";
-    import { onMount } from "svelte";
-    import projects from "../../project-data.json";
-    import { Splide, SplideSlide } from '@splidejs/svelte-splide';
-    // or only core styles
-    import '@splidejs/svelte-splide/css';
-    import Youtube from "svelte-youtube-embed";
-
-
-
-    export async function get() {
-        return {
-            status: 200,
-            body: {
-                projects,
-            },
-        };
-    }
-
-    onMount(() => {
-        let test = get();
-        console.log($page.url);
-
-        $: console.log($page.params);
-
-        let projectSlug = $page.params.project;
-    });
-    let test = get();
-    console.log(test);
-
-    $: console.log($page.params);
-
-    let projectSlug = $page.params.project;
+<script>
 </script>
 
-<div class="container m-0 px-4 fixed w-32 bg-gray-100">
-    <div class="container  w-1/2">
-        <h1 class="font-bold">Surrealist Dreams</h1>
+<div class="container mx-auto max-w-screen-lg">
+    <div class="mx-4 grid gap-4 md:grid-cols-1 lg:mx-0 lg:grid-cols-1">
+        <div>
+            <!-- Content for first column -->
+            <div class="my-16 w-full">
+                <h1 class="py-4 text-6xl font-black">Surrealist Dreams</h1>
+                <iframe
+                    width="999"
+                    height="562"
+                    src="https://www.youtube.com/embed/H2sFTtW4uE0"
+                    title="Otherstories  - Dali Test Dream"
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen
+                ></iframe>
+            </div>
+            <div>
+                <iframe
+                    width="999"
+                    height="562"
+                    src="https://www.youtube.com/embed/M5XcKIepKRU"
+                    title=""
+                    frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowfullscreen
+                ></iframe>
+            </div>
+        </div>
     </div>
 </div>
-<div class="container m-auto w-3/4 my-16">
 
-      <div class="m-auto lg:w-3/4 md:w-full md:mx-8">
-        <h2 class="text-xl font-bold">
-            Deep COVID explorations of an intentionally under-trained StyleGAN
-        </h2>
+<style>
+    @font-face {
+        font-family: "Geist-Medium";
 
-        <p class="py-4">
-            I am often drawn to the edges of technology and rather than chase perfection by letting AI create reality, I like to see where it drifts and use the glitches find beauty. In this session, I convined both my wife and so to let take a 1 minute video. I used the exported images to then train a StyleGAN.
-        </p>
+        src: url("/fonts/Geist/Geist-Medium.woff2") format("woff2");
+    }
 
-        <p class="py-4">
-            By exploring the latest space in the new dataset, we can see the users drifts in and out of reality. In fact, all the video is made/dreamt but the AI and not real video was used. The dataset of images is only used to measure how close the genrated images are the initial training images.
-        </p>
-
-        <p class="py-4">
-           Creepy. Cool. I may be the only person that like these half formed dreams but at the time, it was magical.
-        </p>
-
-       \
-      </div>
-    <div class="my-32 md:my-16 sm:my-8">
-        <Youtube
-        id="H2sFTtW4uE0"
-        --overlay-bg-color="hsla(0, 0%, 0%, 0.3)"
-        --overlay-transition="all 100ms linear"
-      />
-
-
-
-     </div>
-
-
-
-</div> -->
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: "Geist-Medium", serif, HelveticaNeue, "Inter", sans-serif;
+    }
+</style>

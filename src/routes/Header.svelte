@@ -51,7 +51,7 @@
     >
         <div class="container m-auto w-full bg-[#F9F9F9]">
             <div class="tile nav-links col-span-12 mb-0 bg-[#F9F9F9] pt-4">
-                <a href="/blog/" class="text-xl font-thin hover:no-underline"
+                <a href="/" class="text-xl font-thin hover:no-underline"
                     >Jason Herring</a
                 ><br />
                 <!-- <div
