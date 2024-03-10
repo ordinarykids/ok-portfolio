@@ -25,8 +25,8 @@
     }
 
     async function summarizeStory(story) {
-        const apiKey = "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";
-        const apiUrl = "https://api.openai.com/v1/chat/completions";
+        //  const apiKey = "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";
+        const apiUrl = "/api/chat";
 
         const prompt = `Please provide a brief summary of the following Hacker News story:\n\nTitle: ${story.title}\nURL: ${story.url}\n\nSummary:`;
 
@@ -35,7 +35,7 @@
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
-                    Authorization: `Bearer ${apiKey}`,
+                    // Authorization: `Bearer ${apiKey}`,
                 },
                 body: JSON.stringify({
                     prompt: prompt,
@@ -45,8 +45,9 @@
                     temperature: 0.7,
                 }),
             });
-            console.log(response);
+
             const data = await response.json();
+            console.log(data);
             return data.choices[0];
         } catch (error) {
             console.error("Error summarizing story:", error);

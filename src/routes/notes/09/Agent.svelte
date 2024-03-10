@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     export let name;
     export let text;
 </script>
@@ -20,4 +20,4 @@
     .agent2 .message-text {
         background-color: #f5f5f5; /* Example color for Agent 2 */
     }
-</style>
+</style> -->
