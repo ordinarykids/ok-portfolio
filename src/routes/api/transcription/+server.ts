@@ -1,5 +1,5 @@
 import { json } from "@sveltejs/kit";
-import { OPENAI_API_SECRET_KEY } from "$env/static/private";
+import { OPENAI_API_KEY } from "$env/static/private";
 
 export const POST = async (event) => {
   const requestBody = await event.request.formData();
@@ -19,7 +19,7 @@ export const POST = async (event) => {
     {
       method: "POST",
       headers: {
-        Authorization: `Bearer ${OPENAI_API_SECRET_KEY}`,
+        Authorization: `Bearer ${OPENAI_API_KEY}`,
         Accept: "application/json",
       },
       body: formData,

@@ -1,7 +1,7 @@
 <!-- App.svelte -->
 <script>
     import { onMount } from "svelte";
-    import { OPENAI_API_SECRET_KEY } from "$env/static/public";
+    import { OPENAI_API_KEY } from "$env/static/public";
     import OpenAI from "openai";
 
     let messages = [];
@@ -17,7 +17,7 @@
 
     onMount(async () => {
         const openai = new OpenAI({
-            apiKey: OPENAI_API_SECRET_KEY,
+            apiKey: OPENAI_API_KEY,
             dangerouslyAllowBrowser: true,
         });
 
