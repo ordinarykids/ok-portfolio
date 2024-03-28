@@ -1,7 +1,7 @@
 <!-- App.svelte -->
 <script>
     import { onMount } from "svelte";
-    import { OPENAI_API_KEY } from "$env/static/public";
+    import { OPENAI_API_KEY } from "$env/static/private";
     import OpenAI from "openai";
 
     let messages = [];
