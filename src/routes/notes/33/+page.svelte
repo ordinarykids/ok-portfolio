@@ -1,4 +1,5 @@
-<script>
+scrapped
+<!-- <script>
     import { onMount } from "svelte";
     import { OpenAI } from "@langchain/openai";
     import { ConversationChain } from "langchain/chains";
@@ -67,4 +68,4 @@
     .message {
         margin-bottom: 10px;
     }
-</style>
+</style> -->
