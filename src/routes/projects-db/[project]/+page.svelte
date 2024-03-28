@@ -5,6 +5,14 @@
     import projects from "../../project-data.json";
     export let data;
 
+    export async function load({ fetch }) {
+        const res = await fetch(
+            "http://localhost:1337/api/projects/?populate=*",
+        );
+        const info = await res.json();
+        return { props: { blogs: info.data } };
+    }
+
     $: currentProject = projects.data.find(
         (project) => project.attributes.slug === data.project,
     );
@@ -35,7 +43,6 @@
                 </div>
 
                 <div class="underLine"></div>
-                <h2>Info</h2>
             </div>
         </div>
         <div>

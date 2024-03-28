@@ -4,7 +4,7 @@
     import Anthropic from "@anthropic-ai/sdk";
 
     const anthropic = new Anthropic({
-        apiKey: "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", // defaults to process.env["ANTHROPIC_API_KEY"]
+        apiKey: ANTHROPIC_API_KEY,
     });
 
     onMount(async () => {

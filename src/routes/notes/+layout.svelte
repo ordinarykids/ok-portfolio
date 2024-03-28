@@ -1,20 +1,20 @@
 <script>
-    let selected = "google"; // Default selection
+    // let selected = "google"; // Default selection
 
-    const options = [
-        { value: "google", label: "KQED", url: "https://www.google.com" },
-        {
-            value: "duckduckgo",
-            label: "NIKE Free",
-            url: "https://duckduckgo.com",
-        },
-        { value: "bing", label: "Aleph", url: "https://www.bing.com" },
-    ];
+    // const options = [
+    //     { value: "google", label: "KQED", url: "https://www.google.com" },
+    //     {
+    //         value: "duckduckgo",
+    //         label: "NIKE Free",
+    //         url: "https://duckduckgo.com",
+    //     },
+    //     { value: "bing", label: "Aleph", url: "https://www.bing.com" },
+    // ];
 
-    function handleSelectChange(event) {
-        selected = event.detail.value;
-        console.log(event);
-    }
+    // function handleSelectChange(event) {
+    //     selected = event.detail.value;
+    //     console.log(event);
+    // }
 </script>
 
 <!-- <select bind:value={selected} on:change={handleSelectChange}>

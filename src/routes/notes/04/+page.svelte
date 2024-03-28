@@ -7,7 +7,7 @@
   let isLoading = false;
 
   async function fetchData() {
-      isLoading = true; 
+      isLoading = true;
       error = null;
       const apiKey = env.STABILITY_API_KEY;
       const apiHost = 'https://api.stability.ai'
@@ -48,7 +48,7 @@
 
           data = await response.json();
       } catch (err) {
-          error = err.message; 
+          error = err.message;
       } finally {
           isLoading = false;
       }
@@ -59,7 +59,7 @@
   console.log(responseJSON)
 
   // Call the function to fetch data, often on component mount
-  onMount(fetchData); 
+  onMount(fetchData);
 </script>
 
 {#if isLoading}

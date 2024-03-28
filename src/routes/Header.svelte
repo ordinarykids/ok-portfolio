@@ -72,13 +72,13 @@
                     <span class="w-32 font-bold">SELECTED PROJECTS</span>
 
                     <NavLink
-                        href="/projects-db/nike-free"
-                        title="Nike Free"
+                        href="/projects-db/tracy-chapman"
+                        title="Tracy Chapman"
                         on:navigate={handleNavigate}
                     />
                     <NavLink
-                        href="/projects-db/tracy-chapman"
-                        title="Tracy Chapman"
+                        href="/projects-db/nike-free"
+                        title="Nike Free"
                         on:navigate={handleNavigate}
                     />
                     <NavLink

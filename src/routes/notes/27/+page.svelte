@@ -25,7 +25,6 @@
     }
 
     async function summarizeStory(story) {
-        //  const apiKey = "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";
         const apiUrl = "/api/chat";
 
         const prompt = `Please provide a brief summary of the following Hacker News story:\n\nTitle: ${story.title}\nURL: ${story.url}\n\nSummary:`;
