@@ -111,12 +111,12 @@
                     />
                     <NavLink
                         href="/notes/21"
-                        title="Claude Self Portrait #1"
+                        title="Claude #1"
                         on:navigate={handleNavigate}
                     />
                     <NavLink
                         href="/notes/22"
-                        title="Claude Self Portrait #2"
+                        title="Claude #2"
                         on:navigate={handleNavigate}
                     />
 
