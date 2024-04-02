@@ -1753,14 +1753,14 @@
 {
 "id": 6,
 "attributes": {
-"title": "KQED - Elections",
+"title": "KQED",
 "date": null,
 "createdAt": "2024-02-26T19:31:44.910Z",
-"updatedAt": "2024-03-06T23:05:37.862Z",
+"updatedAt": "2024-03-28T20:38:07.750Z",
 "publishedAt": "2024-02-26T19:32:28.851Z",
 "slug": "kqed",
-"longdescription": null,
-"shortdescription": null,
+"longdescription": "Managed product design and engineering teams in launching KQED.org redesign, segmented audio workflows for Newscasts, Google News and voice speakers.\n<ul>\n<li>Developed new segmented audio workflow to Google News requested more than 600K audio downloads/month</li>\n<li>Created Alexa application that allowed members to listen to Pledge Free Stream</li>\n<li>Successfully recruited and hired 2 UX designers, 1 product design lead, and 3 engineers.</li>\n</ul>",
+"shortdescription": "The hard work of changing the way public media does digital. ",
 "specialsauce": null,
 "featuredImage": {
 "data": {
@@ -2698,12 +2698,12 @@
 "title": "Aleph Rebrand",
 "date": null,
 "createdAt": "2024-02-29T19:40:49.307Z",
-"updatedAt": "2024-02-29T19:40:59.730Z",
+"updatedAt": "2024-04-02T18:20:56.103Z",
 "publishedAt": "2024-02-29T19:40:59.729Z",
 "slug": "aleph-rebrand",
-"longdescription": null,
+"longdescription": "\n<p class=\"mb-4\">Aleph’s core offerings as a creative technology partner have expanded and shifted over the years as our talents and focus have evolved. In recent times, the pace of change in the tech that surrounds us has accelerated beyond any human’s ability to keep up with it. We’ve been thinking a lot about where our brand and capabilities sit within this tumultuous landscape, and we recently launched our new website, where the latest output of that thought process takes center stage.\n</p>\n<p class=\"mb-4\">\nWe believe Aleph’s brand should reflect the collective diversity of our creative influences, the empathy for others that we carry, and the irreverent nature of the work we want to do. Our client work is focused primarily on shaping the space around information, and bringing our clients a comprehensive, creative vision that is both incredibly ambitious and inherently possible.\n\n\n</p>\n<p class=\"mb-4\">\nThe latest expression of our brand showcases not only our influences and inspiration, but also who we can become as we embrace new innovation in tech-assisted creative work. A core tenet of our team is that coding is a creative act; not simply a byproduct of design but an intrinsic part of the design process. It is both foundational and transformative, encompassing both the static nature of printed pages and the dynamic movement of interactive art.\n</p>",
 "shortdescription": "Reimagining an imaginary brand steeped in early post modernist short stories. ",
-"specialsauce": null,
+"specialsauce": "<iframe class=\"w-full aspect-video\" src=\"https://www.youtube.com/embed/FFpdC3Qbggg\" title=\"Random Stuff on my Figma Boards\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
 "featuredImage": {
 "data": {
 "id": 178,

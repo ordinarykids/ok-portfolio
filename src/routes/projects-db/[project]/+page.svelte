@@ -26,7 +26,7 @@
                 <p>
                     <img
                         class="w-full"
-                        alt="feature project image "
+                        alt="feature project photograph "
                         src={currentProject.attributes.featuredImage.data
                             .attributes.url}
                     />
@@ -38,7 +38,7 @@
                 <h2 class="font-this text-xl">
                     {@html currentProject.attributes.shortdescription}
                 </h2>
-                <div class="sm:columns-1 md:columns-2">
+                <div class="pt-8 sm:columns-1 md:columns-2">
                     {@html currentProject.attributes.longdescription}
                 </div>
 

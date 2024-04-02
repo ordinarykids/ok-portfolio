@@ -202,8 +202,8 @@
             <!-- Content for the second column -->
             <video
                 accesskey=""
-                controls=""
                 height="auto"
+                controls
                 autoplay
                 loop
                 width="100%"
@@ -211,16 +211,9 @@
                 <source src="headshot.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
-            <h4 class="l mb-4 font-bold">Press & Awards</h4>
+
+            <h3 class="mb-4 mt-16 text-xs">NOTABLE PRESS AND AWARDS</h3>
             <div class="my-8">
-                <h4 class="text-xl">KQED</h4>
-                <div class="text-lg">Director of Design and Development</div>
-                <div class="sm">AUG 2018 - MAR 2020</div>
-                <p>
-                    Managed product design and engineering teams in launching
-                    KQED.org redesign, segmented audio workflows for Newscasts,
-                    Google News and voice speakers.
-                </p>
                 <ul class="list-disc p-4">
                     <li>How Magazine, Best of Show Interactive Annual</li>
                     <li>FWA Site of the Day, Nike Sportswear, NSW</li>
@@ -229,15 +222,13 @@
                     <li>Print Magazine, MoMA Design Takes on Risk</li>
                     <li>One Club Judge</li>
                     <li>History of Web Design</li>
-
-                    <li>
-                        Created Alexa application that allowed members to listen
-                        to Pledge Free Stream
-                    </li>
-                    <li>
-                        Successfully recruited and hired 2 UX designers, 1
-                        product design lead, and 3 engineers.
-                    </li>
+                </ul>
+            </div>
+            <h3 class="mb-4 mt-16 text-xs">RERENCES</h3>
+            <div class="my-8">
+                <ul class="list-disc p-4">
+                    <li>Justin Marr, Distinguished Designer, Intuit</li>
+                    <li>FWA Site of the Day, Nike Sportswear, NSW</li>
                 </ul>
             </div>
         </div>
