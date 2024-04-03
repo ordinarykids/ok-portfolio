@@ -175,25 +175,21 @@
                     </ul>
                 </div>
 
-                EDUCATION Hillsborough Community College, Tampa — AA 1992-1993
-                Associate of Arts coursework. University of South Florida, Tampa
-                — N/A 1994 - 1996 Studied English Literature and fell in love
-                with the library and discovered the internet.
-
                 <h3 class="mb-4 mt-16 text-xs">EDUCATION</h3>
                 <div class="mb-8">
-                    <h4 class="text-xl">
+                    <h4 class="text-sm">
                         Hillsborough Community College, Tampa
                     </h4>
-                    <div class="text-lg">Associates of the Arts</div>
-                    <div class="sm">1992-1993</div>
+                    <div class="text-sm">Associates of the Arts</div>
 
-                    <h4 class="text-xl">University of South Florida, Tampa</h4>
-                    <div class="text-lg">Associates of the Arts</div>
-                    <div class="sm">1992-1993</div>
+                    <h4 class="mt-4 text-sm">
+                        University of South Florida, Tampa
+                    </h4>
+                    <div class="text-sm">English Literature</div>
+
                     <p>
-                        Studied English Literature and fell in love with the
-                        library and discovered the internet.
+                        Studied English Literature. Fell in love with the
+                        library, discovered the internet and dropped out.
                     </p>
                 </div>
             </div>
@@ -216,20 +212,35 @@
             <div class="my-8">
                 <ul class="list-disc p-4">
                     <li>How Magazine, Best of Show Interactive Annual</li>
-                    <li>FWA Site of the Day, Nike Sportswear, NSW</li>
-                    <li>FWA Site of the Day, Tracy Chapman</li>
-                    <li>Communication Arts,Interactive Annuals and Covers</li>
+                    <li>FWA Site of the Day</li>
+
+                    <li>Communication Arts,Interactive Annual</li>
                     <li>Print Magazine, MoMA Design Takes on Risk</li>
                     <li>One Club Judge</li>
-                    <li>History of Web Design</li>
+                    <li>History of Web Design Book</li>
                 </ul>
             </div>
             <h3 class="mb-4 mt-16 text-xs">RERENCES</h3>
             <div class="my-8">
-                <ul class="list-disc p-4">
-                    <li>Justin Marr, Distinguished Designer, Intuit</li>
-                    <li>FWA Site of the Day, Nike Sportswear, NSW</li>
-                </ul>
+                <div class="list-disc">
+                    <h3 class="font-bold">
+                        <a href="mailto:Justin_Marr@intuit.com">Justin Marr</a>
+                    </h3>
+                    <p>Design Director, Intuit</p>
+                </div>
+                <div class="list-disc">
+                    <h3 class="font-bold">
+                        <a href="mailto:tolson@KQED.org">Tim Olson</a>
+                    </h3>
+                    <p>SVP Strategic Partnerships, KQED</p>
+                </div>
+
+                <div class="list-disc">
+                    <h3 class="font-bold">
+                        <a href="mailto:lrobinson@KQED.org">Lowell Robinson</a>
+                    </h3>
+                    <p>Senior Producer, Voice & AI, KQED</p>
+                </div>
             </div>
         </div>
     </div>
